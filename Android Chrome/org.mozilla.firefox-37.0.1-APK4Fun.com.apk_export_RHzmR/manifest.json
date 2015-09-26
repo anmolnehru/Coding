@@ -1,0 +1,54 @@
+{
+  "name": "__MSG_extName__",
+  "default_locale": "en",
+  "manifest_version": 2,
+  
+  "version": "30747.4838",
+  "version_name": "37.0.1",
+  "offline_enabled": true,
+  "app": {
+    "background": {
+      "page": "app_main.html"
+    }
+  },
+  "icons": {
+    "16": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    {"fileSystem": ["write"]},
+    {"socket": ["tcp-connect", "tcp-listen", "udp-bind", "udp-send-to", "resolve-host"]},
+    "unlimitedStorage",
+    "notifications",
+    "clipboardRead",
+    "accessibilityFeatures.read",
+    "https://clients2.google.com/",
+    "videoCapture",
+    "clipboardWrite",
+    "identity.email",
+    "alarms",
+    "storage",
+    "identity",
+    "audioCapture",
+    "geolocation"]
+,
+  "requirements": {
+    "3D": {
+      "features": ["webgl"]
+    }
+  },
+  "import": [{"id": "mfaihdlpglflfgpfjcifdjdjcckigekc"}],
+  "file_handlers": {"arc.types": {"types": ["application/webapp","text/plain"]}},
+  
+  
+  "arc_metadata": {
+    "apkList": [
+      "org.mozilla.firefox-37.0.1-APK4Fun.com.apk"
+    ],
+    "enableExternalDirectory": false,
+    "formFactor": "tablet",
+    "name": "Firefox",
+    "orientation": "portrait",
+    "packageName": "org.mozilla.firefox"
+  }
+}

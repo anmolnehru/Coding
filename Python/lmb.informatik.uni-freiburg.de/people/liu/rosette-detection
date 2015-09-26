@@ -1,0 +1,289 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+
+<head>
+
+<!-- Internet Explorer fix, forces IE8 into newest possible rendering
+     engine even if it's on an intranet. This has to be defined before any
+     script/style tags. -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        
+<!--------------------  ---------------------->
+<!-- Hier den Titel fuer die Seiten angeben -->
+<!--       Title      +    favicon          -->
+<!--------------------  ---------------------->
+<link rel="shortcut icon" href="/logo_small.png" type="image/png">
+<title>Computer Vision Group, Freiburg</title>
+
+
+        
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="expires" content="-1" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="robots" content="all" />
+
+<!--------------------  ---------------------->
+<!-- Standardlayout laden                   -->
+<!--------------------  ---------------------->
+
+<style type="text/css" media="all">
+   @import url(/css/default.css);  
+</style>
+
+
+
+<!-- Internet Explorer Fixes -->
+<!--[if IE]>
+    <style type="text/css" media="all">@import url(/muster/css/IEFixes.css);</style>
+    <style type="text/css" media="all">@import url(/muster/css/IE.css);</style>
+<![endif]-->
+
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="css/IE6.css" media="all" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/IE7.css" media="all" /><![endif]-->
+    
+</head>
+
+<body>
+
+
+<!--------------------  ---------------------->
+<!-- gesamtes Layout ist Tabelle            -->
+<!--------------------  ---------------------->
+<div id="wrapper">
+	<table id="wrapperTable">
+        <tbody>
+        <tr>
+
+
+<!--------------------  ---------------------->
+<!-- linke Tabelle = Navigation             -->
+<!--------------------  ---------------------->
+		<td id="leftwrapperTable">
+			<div id="leftcolumnWrapper">
+                            <div id="leftTopSpace">&nbsp;</div>
+                            <div id="leftGreyBar">&nbsp;</div>
+                            <div id="leftUpperSpace">&nbsp;</div>
+		<dl class="portletNavigationTree">
+		  <dd>
+			<ul class="navTreeLevel0">
+
+<!--------------------  ------------------------>
+<!-- Hier Links und Titel eingeben            -->
+<!-- beliebig erweiterbar durch neuen Eintrag -->
+<!--------------------  ------------------------>
+				
+
+<li class="navTreeItem visualNoMarker "><div><a href="/index.php" class="state-published "><span>Home</span></a></div></li>
+<li class="navTreeItem visualNoMarker "><div><a href="/people/team.php" class="state-published "><span>Team</span></a></div></li>
+<li class="navTreeItem visualNoMarker "><div><a href="/research/research.php" class="state-published "><span>Research</span></a></div></li>
+<li class="navTreeItem visualNoMarker "><div><a href="/Publications" class="state-published "><span>Publications</span></a></div></li>
+<li class="navTreeItem visualNoMarker "><div><a href="/lectures/teaching.php" class="state-published "><span>Teaching</span></a></div></li>
+<li class="navTreeItem visualNoMarker "><div><a href="/resources/software.php" class="state-published "><span>Software/Datasets</span></a></div></li>
+<li class="navTreeItem visualNoMarker "><div><a href="/jobs.php" class="state-published "><span>Job Offers</span></a></div></li>
+<li class="navTreeItem visualNoMarker "><div><a href="/contact.php" class="state-published "><span>Contact</span></a></div></li>
+<li class="navTreeItem visualNoMarker "><div><a href="/interna/" class="state-published "><span>Internal</span></a></div></li>
+				
+
+			</ul>
+		  </dd>
+		</dl>
+
+			</div>
+		</td>
+
+ <div style="height:100%; position:absolute; top:204px; left:145px;" >
+                        <img src="/css/home.png" border="0">
+ </div>
+
+
+<!--------------------  ---------------------->
+<!-- Uni-Logo einbinden                     -->
+<!--------------------  ---------------------->
+		<td id="logowrapperTable">
+
+			<div id="logocolumnWrapper">
+				<div id="logoWrapper">
+<a href="http://www.uni-freiburg.de/" title="Albert-Ludwigs-Universität Freiburg" alt="LMB"><img src="/css/unilogo.gif" alt="Uni-Logo" /></a>
+				</div>
+			</div>
+
+		</td>
+
+<!--------------------  ---------------------->
+<!-- LS-Titel eingeben                      -->                           
+<!-- Informatik und Fak als Link            -->
+<!--------------------  ---------------------->
+
+		<td id="rightwrapperTable">
+
+			<div id="rightcolumnWrapper">
+			<div id="portal-header">
+
+	                <div id="logo-resource"><a href="/index.php"><img src="/css/group_logo.png" border="0"></a></div>		
+
+<!--------------------  ---------------------->
+<!-- Lehrstuhl                              -->
+<!--------------------  ---------------------->
+			   <div id="title-resource">
+                		<table border="0" cellpadding="0" cellspacing="0">
+			   	  <tbody>
+                        	<tr><td valign="bottom"><a href="/index.php"><span class="resource">Lehrstuhl für Mustererkennung und Bildverarbeitung</span></a></td></tr>
+                	        </tbody>
+                		</table>
+			   </div>
+	<!-- 		  <div style="height:100%; position:absolute; top:2px; left:775px;" > 
+                        <img src="/css/group_logo.png" border="0">
+ </div> -->
+<!--------------------  ---------------------->
+<!-- Links Info / TF unter LS               -->
+<!--------------------  ---------------------->
+
+			   <div id="title-uni">
+
+          <a href="http://www.informatik.uni-freiburg.de/" title="Dept. of Computer Science">Dept. of Computer Science</a>
+&nbsp;&nbsp;&nbsp;
+          <a href="http://www.tf.uni-freiburg.de/" title="Technische Fakultät">Faculty of Engineering</a>
+		         
+                     </div>
+
+			</div>
+<!--------------------  ---------------------->
+<!-- Navigation horizontal                  -->
+<!-- hier ausgeschaltet                     -->
+<!-- nur Eintrag auf Startseite             -->
+<!--------------------  ---------------------->
+			<div id="red-bar"></div>
+			<div id="sections-breadcrumbs">
+				<div id="portal-breadcrumbs">
+					<span id="breadcrumbs-you-are-here"></span>
+				<!--	<a href="http://lmb.informatik.uni-freiburg.de/">Home</a> -->
+						
+				</div>
+			</div>
+
+			<div id="rightSpaceGrey">&nbsp;</div>
+
+		<div id="content" class="def" style="vertical-align: top;">
+
+<!--------------------  ---------------------->
+<H2><A HREF="http://lmb.informatik.uni-freiburg.de/index.php">Our group homepage</A> | <A HREF="http://www.bioss.uni-freiburg.de/cms/organogenesis">Related Biology Group</A> | <A HREF="http://lmb.informatik.uni-freiburg.de/people/liu">My homepage</A> </H2>
+<!--------------------  ---------------------->
+
+<head>
+<style type="text/css">
+LI
+{
+line-height:150%;
+}
+strong
+{
+}
+p
+{
+}
+UL
+{
+}
+a
+{
+}
+a:hover
+{ 
+background: #AFB 
+}
+</style>
+</head>
+<H1>Rosette Detector</H1>
+
+<H2>Download</H2>
+<UL>
+<p>
+
+	<LI> This package includes the rosette detector, used in paper <a href="/Publications/2012/LR12a/">Shroom3 is required downstream of FGF signaling for 
+proneuromasts assembly in the zebrafish lateral line primordium</a>. <BR><BR>
+
+<LI> Matlab Demo (with test data) and example output:  <a href="/people/liu/download_rosette_detection"><img src="/Publications/images/code.png" style="vertical-align:center"></a> <BR><BR> 
+ 
+<LI> A gentle introduction (for the ones not familiar with image analysis and detection tasks):  <a href="/people/liu/Rosette_Detection.pdf"><img src="/Publications/images/pdf.png" style="vertical-align:center"></a> <BR><BR> 
+
+
+</p>  
+</UL>
+
+
+<H2>How to use</H2>
+<UL>
+<LI> The package is developed in Matlab R2010a and tested on Ubuntu 10.04 X86_64. <BR>
+It may require some tiny modifications for a different environment.
+<BR><BR>
+<LI> The package is build on some other free software:<BR>
+<a href="http://www.vlfeat.org/">VLFeat v0.9.14</a> |
+<a href="http://www.mathworks.com/matlabcentral/fileexchange/23629">export_fig Matlab tool</a><BR>
+<BR>
+Please install the VLfeat toolbox before using the demo!<BR>
+<BR>
+<LI> Run demo.m in Matlab<BR>
+<BR>
+
+<LI> The program uses the detector model trained on our data. (Input images should have a pixel size equal to 0.26 micrometer in real world.) <BR>
+For generalizing to new data with very different treatment, imaging condition or even different interested objects, it needs a retraining on the new (labelled) data. <BR>
+If you are interestd in the Matlab program for training the detector, please contact us.<BR>
+</UL>
+
+<H2>Example results </H2>
+<UL>
+<H4>(raw image | detected rosettes with probability | detection score map)<BR><H4>
+<img src='./images_r/20120704_v1_not_red_MO_e18EDF.jpg'/ height=150> 
+<img src='./images_r/20120704_v1_not_red_MO_e18EDF_bb.png'/ height=150> 
+<img src='./images_r/20120704_v1_not_red_MO_e18EDF_det.jpg'/ height=150><br> 
+<img src='./images_r/20120704_v1_not_red_MO_e2EDF.jpg'/ height=150> 
+<img src='./images_r/20120704_v1_not_red_MO_e2EDF_bb.png'/ height=150> 
+<img src='./images_r/20120704_v1_not_red_MO_e2EDF_det.jpg'/ height=150><br> 
+<img src='./images_r/20120704_v1_not_red_ctrl_e1EDF_red.jpg'/ height=150> 
+<img src='./images_r/20120704_v1_not_red_ctrl_e1EDF_red_bb.png'/ height=150> 
+<img src='./images_r/20120704_v1_not_red_ctrl_e1EDF_red_det.jpg'/ height=150><br> 
+<img src='./images_r/20120704_v1_not_red_ctrl_e2EDF.jpg'/ height=150> 
+<img src='./images_r/20120704_v1_not_red_ctrl_e2EDF_bb.png'/ height=150> 
+<img src='./images_r/20120704_v1_not_red_ctrl_e2EDF_det.jpg'/ height=150><br> 
+<img src='./images_r/20120704_v1_red_ctrl_e1EDF_not_red.jpg'/ height=150> 
+<img src='./images_r/20120704_v1_red_ctrl_e1EDF_not_red_bb.png'/ height=150> 
+<img src='./images_r/20120704_v1_red_ctrl_e1EDF_not_red_det.jpg'/ height=150><br> 
+<img src='./images_r/20120704_v1_red_ctrl_e9EDF.jpg'/ height=150> 
+<img src='./images_r/20120704_v1_red_ctrl_e9EDF_bb.png'/ height=150> 
+<img src='./images_r/20120704_v1_red_ctrl_e9EDF_det.jpg'/ height=150><br> 
+ 
+</UL>
+
+		</div>
+		</div>
+
+		</td>
+		</tr>
+
+<tr><td></td><td></td>
+
+<!--------------------  ---------------------->
+<!-- rechter Teil und Fusszeile             -->
+<!--------------------  ---------------------->
+	<td id="rightwrapperTable">
+		<div id="rightcolumnWrapper">
+		<div id="portal-footer">
+      			<div id="im-footer">
+			 <table><tr><td align=left><a href="/impressum.php" title="Impressum">Webmaster&nbsp;&nbsp;Disclaimer</a></td>
+                     <td align=right> <a href="/impressum.php" title="Impressum"><font color="white">&copy; Copyright 2011, LMB, University of Freiburg</font></a></td></tr></table>
+			</div>
+			<div id="rightSpace">&nbsp;</div>
+		</div>
+		</div>
+
+	</td>
+	</tr>
+
+</table>
+</div>
+
+</body>
+</html>
+
+ 
