@@ -26,13 +26,15 @@ void main()
 	int array[n];
 	for(size_t i=0;i<n;i++)
 	{
-		array[i]=rand();
+		array[i]=abs(rand()%(n-1))+1;
+		printf("%d ",array[i]);
 	}
 
-
+    puts(" ");
+    //printf("\n");
 	int duplicate=detect(array,n);
 	if(duplicate)
-	printf("%d\n",duplicate);
+    printf("%d\n",abs(duplicate));
 	else
-	printf("No duplicate");
+    printf("No duplicate");
 }
