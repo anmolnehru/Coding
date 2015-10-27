@@ -11,29 +11,28 @@ typedef struct  ll
 
 void random_generator(int k, int m)
 {
-	//make global??
+	//make global??-just processing everything in this function:-
+
+	//initializing the linked list
 	ll *head=(ll*)malloc(sizeof(ll));
 	head->next=NULL;
 	head->data=0; //so first positive element also generated randomly maybe safely inserted
 
 	//this pointer will iterate through existing list and look to insert the node
-	ll *iterator=(ll*)malloc(sizeof(ll));
+	ll *iterator=head;
 
-	int count_down_k;
+	int count_down_k=k;
+
+	iterator->data=rand();
+
 	while(count_down_k--)
 	{
 		int randnum=rand();
 		iterator=head;
-		if(iterator->data==0)
-			{
-				iterator->data=randnum;
-				break;
-			}
 
-
-		int count;
-		struct ll *prev;
-		while(randnum >= iterator->data && iterator!=NULL)
+		int count=0;
+		ll *prev;
+		while(randnum >= iterator->data && iterator->next!=NULL)
 		{
 			count++;
 			prev=iterator;
@@ -50,44 +49,61 @@ void random_generator(int k, int m)
 			iterator->data=randnum;
 			iterator->next=NULL;
 		}
-		while(randnum==iterator->data)
-		{
-			randnum++;
-			prev=iterator;
-			iterator=iterator->next;
-		}
+		//else if{
 
-		ll *new=(ll*)malloc(sizeof(ll));
-		new->data=randnum;
-		prev->next=new;
-		new->next=iterator;
+		else if(randnum==iterator->data)
+			{
+				while(randnum==iterator->data && iterator!=NULL)
+					{
+						randnum++;
+						prev=iterator;
+						iterator=iterator->next;
+					}
+
+					if(iterator==NULL)
+						{
+							iterator=(ll*)malloc(sizeof(ll));
+							prev->next=iterator;
+							iterator->data=randnum;
+							iterator->next=NULL;
+						}
+
+					else
+						{
+
+							ll *newll=(ll*)malloc(sizeof(ll));
+							newll->data=randnum;
+							prev->next=newll;
+							newll->next=iterator;
+						}
+			}
+
+}
 
 
-	}
-
+	//This step is to print the final k random numbers
 	iterator=head;
-
-
-	while(iterator!=NULL)
+	count_down_k=k;
+	while(count_down_k--)
 	{
 		printf("%d ",iterator->data);
 		iterator=iterator->next;
 	}
 
+	free(head);
+	//free(newll);
+	free(iterator);
 	puts("");
 }
 
-int main(int argc, char const *argv[])
+void main(int argc, char const *argv[])
 {
     int k,m;
 	puts("Enter k and m");
 	scanf("%d %d",&k,&m);
-
 	random_generator(k,m);
 
-
-
-	return 0;
+	//return 0;
 }
 
 
