@@ -1,12 +1,14 @@
 #!/bin/sh
-mkdir -p fake
-cp fake.c fake/trial.c
-cd fake
-a=20
+#mkdir -p fake
+#cp fake.c fake/trial.c
+cd ~/Coding/C/fake
 
-while [ $a -lt 40 ]
+a=0
+T="$(date +%s)"
+while [ $a -lt 4 ]
 do
-cp trial.c script_$a.c
+#cp trial.c script_$a.c
+echo $T >> $T+$a.c
 a=`expr $a + 1`
 done
 cd ..
