@@ -1,0 +1,346 @@
+﻿<div class="menu-iconic-container"><ul id="menu-top" class="nav-menu"> menu-item-home menu-item-135003"><a href="http://www.geeksforgeeks.org/">Home</a></li>
+"http://www.geeksforgeeks.org/fundamentals-of-algorithms/">Algo</a>
+ menu-item-135030"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms">Analysis of Algorithms</a></li>
+ menu-item-135031"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#SearchingandSorting">Searching and Sorting</a></li>
+ menu-item-135032"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#GreedyAlgorithms">Greedy Algorithms</a></li>
+ menu-item-135033"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#DynamicProgramming">Dynamic Programming</a></li>
+ menu-item-135034"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#PatternSearching">Pattern Searching</a></li>
+ menu-item-135035"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#OtherStringAlgorithms">Other String Algorithms</a></li>
+ menu-item-135036"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#Backtracking">Backtracking</a></li>
+ menu-item-135037"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#DivideandConquer">Divide and Conquer</a></li>
+ menu-item-135038"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#GeometricAlgorithms">Geometric Algorithms</a></li>
+ menu-item-135039"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#MathematicalAlgorithms">Mathematical Algorithms</a></li>
+ menu-item-135040"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#BitAlgorithms">Bit Algorithms</a></li>
+ menu-item-135041"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#GraphAlgorithms">Graph Algorithms</a></li>
+ menu-item-135042"><a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/#RandomizedAlgorithms">Randomized Algorithms</a></li>
+"http://www.geeksforgeeks.org/data-structures/">DS</a>
+ current-menu-item menu-item-135045"><a href="http://www.geeksforgeeks.org/data-structures/#LinkedList">Linked List</a></li>
+ current-menu-item menu-item-135046"><a href="http://www.geeksforgeeks.org/data-structures/#Stack">Stack</a></li>
+ current-menu-item menu-item-135047"><a href="http://www.geeksforgeeks.org/data-structures/#Queue">Queue</a></li>
+ current-menu-item menu-item-135048"><a href="http://www.geeksforgeeks.org/data-structures/#BinaryTree">Binary Tree</a></li>
+ current-menu-item menu-item-135049"><a href="http://www.geeksforgeeks.org/data-structures/#BinarySearchTree">Binary Search Tree</a></li>
+ current-menu-item menu-item-135050"><a href="http://www.geeksforgeeks.org/data-structures/#Heap">Heap</a></li>
+ current-menu-item menu-item-135051"><a href="http://www.geeksforgeeks.org/data-structures/#Hashing">Hashing</a></li>
+ current-menu-item menu-item-135052"><a href="http://www.geeksforgeeks.org/data-structures/#Graph">Graph</a></li>
+ current-menu-item menu-item-135053"><a href="http://www.geeksforgeeks.org/data-structures/#AdvancedDataStructure">Advanced Data Structure</a></li>
+ current-menu-item menu-item-135054"><a href="http://www.geeksforgeeks.org/data-structures/#Array">Array</a></li>
+ current-menu-item menu-item-135055"><a href="http://www.geeksforgeeks.org/data-structures/#Matrix">Matrix</a></li>
+ current-menu-item menu-item-135056"><a href="http://www.geeksforgeeks.org/data-structures/#Misc">Misc</a></li>
+"http://www.geeksforgeeks.org/gate-corner/">GATE</a></li>
+"http://www.geeksforgeeks.org/about/interview-corner/">Interview</a></li>
+ menu-item-135015"><a href="http://qa.geeksforgeeks.org/">Q&#038;A</a></li>
+"http://www.geeksforgeeks.org/c/">C</a></li>
+"http://www.geeksforgeeks.org/c-plus-plus/">C++</a></li>
+"http://www.geeksforgeeks.org/java/">Java</a></li>
+"http://www.geeksforgeeks.org/contribute/">Contribute</a></li>
+"http://www.geeksforgeeks.org/contests/">Contests</a></li>
+"http://www.geeksforgeeks.org/about/job-vacancies-geeksforgeeks-urgent-requirement/">Jobs</a></li>
+ menu-item-135016"><a href="http://qa.geeksforgeeks.org/index.php?qa=ask">Ask a Q</a></li>
+"http://www.geeksforgeeks.org/category/guestblogs/">GBlog</a></li>
+"http://www.geeksforgeeks.org/category/c-arrays/">Array</a></li>
+"http://www.geeksforgeeks.org/category/bit-magic/">Bit Magic</a></li>
+"http://www.geeksforgeeks.org/category/c-puzzles/">C/C++</a></li>
+"http://www.geeksforgeeks.org/category/articles/">Article</a></li>
+"http://www.geeksforgeeks.org/category/gfact/">GFact</a></li>
+"http://www.geeksforgeeks.org/category/linked-list/">Linked List</a></li>
+"http://www.geeksforgeeks.org/category/multiple-choice-question/">MCQ</a></li>
+"http://www.geeksforgeeks.org/category/c-programs/">Misc</a></li>
+"http://www.geeksforgeeks.org/category/program-output/">Output</a></li>
+"http://www.geeksforgeeks.org/category/c-strings/">String</a></li>
+"http://www.geeksforgeeks.org/category/tree/">Tree</a></li>
+"http://www.geeksforgeeks.org/category/graph/">Graph</a></li>
+ menu-item-135029"><a href="http://code.geeksforgeeks.org/">IDE</a></li>
+"http://www.geeksforgeeks.org/linked-list-vs-array/">Linked List vs Array</a></li>
+"http://www.geeksforgeeks.org/how-to-write-functions-that-modify-the-head-pointer-of-a-linked-list/">How to write C functions that modify head pointer of a Linked List?</a></li>
+"http://www.geeksforgeeks.org/write-a-function-to-get-nth-node-in-a-linked-list/">Write a function to get Nth node in a Linked List</a></li>
+"http://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/">Given only a pointer to a node to be deleted in a singly linked list, how do you delete it?</a></li>
+"http://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/">Print the middle of a given linked list</a></li>
+"http://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/">Nth node from the end of a Linked List</a></li>
+"http://www.geeksforgeeks.org/write-a-function-to-delete-a-linked-list/">Write a function to delete a Linked List</a></li>
+"http://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/">Write a function that counts the number of times a given int occurs in a Linked List</a></li>
+"http://www.geeksforgeeks.org/write-a-function-to-reverse-the-nodes-of-a-linked-list/">Reverse a linked list</a></li>
+"http://www.geeksforgeeks.org/write-a-c-function-to-detect-loop-in-a-linked-list/">Detect loop in a linked list</a></li>
+"http://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/">Function to check if a singly linked list is palindrome</a></li>
+"http://www.geeksforgeeks.org/given-a-linked-list-which-is-sorted-how-will-you-insert-in-sorted-way/">Given a linked list which is sorted, how will you insert in sorted way</a></li>
+"http://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/">Intersection point of two Linked Lists.</a></li>
+"http://www.geeksforgeeks.org/write-a-recursive-function-to-print-reverse-of-a-linked-list/">Recursive function to print reverse of a Linked List</a></li>
+"http://www.geeksforgeeks.org/remove-duplicates-from-a-sorted-linked-list/">Remove duplicates from a sorted linked list</a></li>
+"http://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/">Remove duplicates from an unsorted linked list</a></li>
+"http://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list/">Pairwise swap elements of a given linked list</a></li>
+"http://www.geeksforgeeks.org/practice-questions-for-linked-list-and-recursion/">Practice questions for Linked List and Recursion</a></li>
+"http://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/">Move last element to front of a given Linked List</a></li>
+"http://www.geeksforgeeks.org/intersection-of-two-sorted-linked-lists/">Intersection of two Sorted Linked Lists</a></li>
+"http://www.geeksforgeeks.org/delete-alternate-nodes-of-a-linked-list/">Delete alternate nodes of a Linked List</a></li>
+"http://www.geeksforgeeks.org/alternating-split-of-a-given-singly-linked-list/">Alternating split of a given Singly Linked List</a></li>
+"http://www.geeksforgeeks.org/merge-two-sorted-linked-lists/">Merge two sorted linked lists</a></li>
+"http://www.geeksforgeeks.org/identical-linked-lists/">Identical Linked Lists</a></li>
+"http://www.geeksforgeeks.org/merge-sort-for-linked-list/">Merge Sort for Linked Lists</a></li>
+"http://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/">Reverse a Linked List in groups of given size</a></li>
+"http://www.geeksforgeeks.org/reverse-alternate-k-nodes-in-a-singly-linked-list/">Reverse alternate K nodes in a Singly Linked List</a></li>
+"http://www.geeksforgeeks.org/delete-nodes-which-have-a-greater-value-on-right-side/">Delete nodes which have a greater value on right side</a></li>
+"http://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/">Segregate even and odd nodes in a Linked List</a></li>
+"http://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/">Detect and Remove Loop in a Linked List</a></li>
+"http://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/">Add two numbers represented by linked lists | Set 1</a></li>
+"http://www.geeksforgeeks.org/delete-a-given-node-in-linked-list-under-given-constraints/">Delete a given node in Linked List under given constraints</a></li>
+"http://www.geeksforgeeks.org/union-and-intersection-of-two-linked-lists/">Union and Intersection of two Linked Lists</a></li>
+"http://www.geeksforgeeks.org/find-a-triplet-from-three-linked-lists-with-sum-equal-to-a-given-number/">Find a triplet from three linked lists with sum equal to a given number</a></li>
+"http://www.geeksforgeeks.org/rotate-a-linked-list/">Rotate a Linked List</a></li>
+"http://www.geeksforgeeks.org/flattening-a-linked-list/">Flattening a Linked List</a></li>
+"http://www.geeksforgeeks.org/sum-of-two-linked-lists/">Add two numbers represented by linked lists | Set 2</a></li>
+"http://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/">Sort a linked list of 0s, 1s and 2s</a></li>
+"http://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/">Flatten a multilevel linked list</a></li>
+"http://www.geeksforgeeks.org/delete-n-nodes-after-m-nodes-of-a-linked-list/">Delete N nodes after M nodes of a linked list</a></li>
+"http://www.geeksforgeeks.org/quicksort-on-singly-linked-list/">QuickSort on Singly Linked List</a></li>
+"http://www.geeksforgeeks.org/merge-a-linked-list-into-another-linked-list-at-alternate-positions/">Merge a linked list into another linked list at alternate positions</a></li>
+"http://www.geeksforgeeks.org/pairwise-swap-elements-of-a-given-linked-list-by-changing-links/">Pairwise swap elements of a given linked list by changing links</a></li>
+"http://www.geeksforgeeks.org/split-a-circular-linked-list-into-two-halves/">Split a Circular Linked List into two halves</a></li>
+"http://www.geeksforgeeks.org/sorted-insert-for-circular-linked-list/">Sorted insert for circular linked list</a></li>
+"http://www.geeksforgeeks.org/delete-a-node-in-a-doubly-linked-list/">Delete a node in a Doubly Linked List</a></li>
+"http://www.geeksforgeeks.org/reverse-a-doubly-linked-list/">Reverse a Doubly Linked List</a></li>
+"http://www.geeksforgeeks.org/the-great-tree-list-recursion-problem/">The Great Tree-List Recursion Problem.</a></li>
+"http://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/">Copy a linked list with next and arbit pointer</a></li>
+"http://www.geeksforgeeks.org/quicksort-for-linked-list/">QuickSort on Doubly Linked List</a></li>
+"http://www.geeksforgeeks.org/swap-kth-node-from-beginning-with-kth-node-from-end-in-a-linked-list/">Swap Kth node from beginning with Kth node from end in a Linked List</a></li>
+"http://www.geeksforgeeks.org/archives/18754">Implement two stacks in an array</a></li>
+"http://www.geeksforgeeks.org/archives/6547">Check for balanced parentheses in an expression</a></li>
+"http://www.geeksforgeeks.org/archives/8405">Next Greater Element</a></li>
+"http://www.geeksforgeeks.org/archives/6921">Reverse a stack using recursion</a></li>
+"http://www.geeksforgeeks.org/sort-a-stack-using-recursion/">Sort a stack using recursion</a></li>
+"http://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure/">Design and Implement Special Stack Data Structure</a></li>
+"http://www.geeksforgeeks.org/implement-stack-using-queue/">Implement Stack using Queues</a></li>
+"http://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/">Design a stack with operations on middle element</a></li>
+"http://www.geeksforgeeks.org/length-of-the-longest-valid-substring/">Length of the longest valid substring</a></li>
+"http://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/">Find maximum of minimum for every window size in a given array</a></li>
+"http://www.geeksforgeeks.org/archives/11042">Applications of Queue Data Structure</a></li>
+"http://www.geeksforgeeks.org/archives/5009">Implement Queue using Stacks</a></li>
+"http://www.geeksforgeeks.org/archives/23449">Check whether a given Binary Tree is Complete or not</a></li>
+"http://www.geeksforgeeks.org/applications-of-tree-data-structure/">Applications of tree data structure</a></li>
+"http://www.geeksforgeeks.org/618/">Tree Traversals</a></li>
+"http://www.geeksforgeeks.org/write-a-c-program-to-calculate-size-of-a-tree/">Size of a tree</a></li>
+"http://www.geeksforgeeks.org/write-c-code-to-determine-if-two-trees-are-identical/">Determine if Two Trees are Identical</a></li>
+"http://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/">Maximum Depth or Height of a Tree</a></li>
+"http://www.geeksforgeeks.org/write-a-c-program-to-delete-a-tree/">Write a C program to Delete a Tree.</a></li>
+"http://www.geeksforgeeks.org/write-an-efficient-c-function-to-convert-a-tree-into-its-mirror-tree/">Write an Efficient C Function to Convert a Binary Tree into its Mirror Tree</a></li>
+"http://www.geeksforgeeks.org/if-you-are-given-two-traversal-sequences-can-you-construct-the-binary-tree/">If you are given two traversal sequences, can you construct the binary tree?</a></li>
+"http://www.geeksforgeeks.org/given-a-binary-tree-print-out-all-of-its-root-to-leaf-paths-one-per-line/">Given a binary tree, print out all of its root-to-leaf paths one per line.</a></li>
+"http://www.geeksforgeeks.org/the-great-tree-list-recursion-problem/">The Great Tree-List Recursion Problem.</a></li>
+"http://www.geeksforgeeks.org/level-order-tree-traversal/">Level Order Tree Traversal</a></li>
+"http://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/">Count leaf nodes in a binary tree</a></li>
+"http://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/">Level order traversal in spiral form</a></li>
+"http://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/">Check for Children Sum Property in a Binary Tree.</a></li>
+"http://www.geeksforgeeks.org/convert-an-arbitrary-binary-tree-to-a-tree-that-holds-children-sum-property/">Convert an arbitrary Binary Tree to a tree that holds Children Sum Property</a></li>
+"http://www.geeksforgeeks.org/diameter-of-a-binary-tree/">Diameter of a Binary Tree</a></li>
+"http://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/">How to determine if a binary tree is height-balanced?</a></li>
+"http://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/">Inorder Tree Traversal without Recursion</a></li>
+"http://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion-and-without-stack/">Inorder Tree Traversal without recursion and without stack!</a></li>
+"http://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/">Root to leaf path sum equal to a given number</a></li>
+"http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/">Construct Tree from given Inorder and Preorder traversals</a></li>
+"http://www.geeksforgeeks.org/given-a-binary-tree-print-all-root-to-leaf-paths/">Given a binary tree, print all root-to-leaf paths</a></li>
+"http://www.geeksforgeeks.org/double-tree/">Double Tree</a></li>
+"http://www.geeksforgeeks.org/maximum-width-of-a-binary-tree/">Maximum width of a binary tree</a></li>
+"http://www.geeksforgeeks.org/foldable-binary-trees/">Foldable Binary Trees</a></li>
+"http://www.geeksforgeeks.org/print-nodes-at-k-distance-from-root/">Print nodes at k distance from root</a></li>
+"http://www.geeksforgeeks.org/get-level-of-a-node-in-a-binary-tree/">Get Level of a node in a Binary Tree</a></li>
+"http://www.geeksforgeeks.org/print-ancestors-of-a-given-node-in-binary-tree/">Print Ancestors of a given node in Binary Tree</a></li>
+"http://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-sumtree/">Check if a given Binary Tree is SumTree</a></li>
+"http://www.geeksforgeeks.org/check-if-a-binary-tree-is-subtree-of-another-binary-tree/">Check if a binary tree is subtree of another binary tree</a></li>
+"http://www.geeksforgeeks.org/connect-nodes-at-same-level/">Connect nodes at same level</a></li>
+"http://www.geeksforgeeks.org/connect-nodes-at-same-level-with-o1-extra-space/">Connect nodes at same level using constant extra space</a></li>
+"http://www.geeksforgeeks.org/populate-inorder-successor-for-all-nodes/">Populate Inorder Successor for all nodes</a></li>
+"http://www.geeksforgeeks.org/convert-a-given-tree-to-sum-tree/">Convert a given tree to its Sum Tree</a></li>
+"http://www.geeksforgeeks.org/vertical-sum-in-a-given-binary-tree/">Vertical Sum in a given Binary Tree</a></li>
+"http://www.geeksforgeeks.org/find-the-maximum-sum-path-in-a-binary-tree/">Find the maximum sum leaf to root path in a Binary Tree</a></li>
+"http://www.geeksforgeeks.org/construct-binary-tree-from-inorder-traversal/">Construct Special Binary Tree from given Inorder traversal</a></li>
+"http://www.geeksforgeeks.org/construct-a-special-tree-from-given-preorder-traversal/">Construct a special tree from given preorder traversal</a></li>
+"http://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-complete-tree-or-not/">Check whether a given Binary Tree is Complete or not</a></li>
+"http://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/">Boundary Traversal of binary tree</a></li>
+"http://www.geeksforgeeks.org/full-and-complete-binary-tree-from-given-preorder-and-postorder-traversals/">Construct Full Binary Tree from given preorder and postorder traversals</a></li>
+"http://www.geeksforgeeks.org/iterative-preorder-traversal/">Iterative Preorder Traversal</a></li>
+"http://www.geeksforgeeks.org/morris-traversal-for-preorder/">Morris traversal for Preorder</a></li>
+"http://www.geeksforgeeks.org/linked-complete-binary-tree-its-creation/">Linked complete binary tree &amp; its creation</a></li>
+"http://www.geeksforgeeks.org/ternary-search-tree/">Ternary Search Tree</a></li>
+"http://www.geeksforgeeks.org/segment-tree-set-1-sum-of-given-range/">Segment Tree | Set 1 (Sum of given range)</a></li>
+"http://www.geeksforgeeks.org/largest-independent-set-problem/">Largest Independent Set Problem</a></li>
+"http://www.geeksforgeeks.org/iterative-postorder-traversal/">Iterative Postorder Traversal | Set 1 (Using Two Stacks)</a></li>
+"http://www.geeksforgeeks.org/iterative-postorder-traversal-using-stack/">Iterative Postorder Traversal | Set 2 (Using One Stack)</a></li>
+"http://www.geeksforgeeks.org/reverse-level-order-traversal/">Reverse Level Order Traversal</a></li>
+"http://www.geeksforgeeks.org/given-linked-list-representation-of-complete-tree-convert-it-to-linked-representation/">Construct Complete Binary Tree from its Linked List Representation</a></li>
+"http://www.geeksforgeeks.org/in-place-convert-a-given-binary-tree-to-doubly-linked-list/">Convert a given Binary Tree to Doubly Linked List | Set 1</a></li>
+"http://www.geeksforgeeks.org/tree-isomorphism-problem/">Tree Isomorphism Problem</a></li>
+"http://www.geeksforgeeks.org/find-all-possible-interpretations/">Find all possible interpretations of an array of digits</a></li>
+"http://www.geeksforgeeks.org/iterative-method-to-find-height-of-binary-tree/">Iterative Method to find Height of Binary Tree</a></li>
+"http://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-2/">Convert a given Binary Tree to Doubly Linked List | Set 2</a></li>
+"http://www.geeksforgeeks.org/print-ancestors-of-a-given-binary-tree-node-without-recursion/">Print ancestors of a given binary tree node without recursion</a></li>
+"http://www.geeksforgeeks.org/difference-between-sums-of-odd-and-even-levels/">Difference between sums of odd level and even level nodes of a Binary Tree</a></li>
+"http://www.geeksforgeeks.org/print-postorder-from-given-inorder-and-preorder-traversals/">Print Postorder traversal from given Inorder and Preorder traversals</a></li>
+"http://www.geeksforgeeks.org/find-depth-of-the-deepest-odd-level-node/">Find depth of the deepest odd level leaf node</a></li>
+"http://www.geeksforgeeks.org/check-leaves-level/">Check if all leaves are at same level</a></li>
+"http://www.geeksforgeeks.org/print-left-view-binary-tree/">Print Left View of a Binary Tree</a></li>
+"http://www.geeksforgeeks.org/connect-leaves-doubly-linked-list/">Extract Leaves of a Binary Tree in a Doubly Linked List</a></li>
+"http://www.geeksforgeeks.org/deepest-left-leaf-node-in-a-binary-tree/">Deepest left leaf node in a binary tree</a></li>
+"http://www.geeksforgeeks.org/find-next-right-node-of-a-given-key/">Find next right node of a given key</a></li>
+"http://www.geeksforgeeks.org/sum-numbers-formed-root-leaf-paths/">Sum of all the numbers that are formed from root to leaf paths</a></li>
+"http://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/">Maximum Path Sum in a Binary Tree</a></li>
+<p><a href="http://www.geeksforgeeks.org/category/tree/">All articles on Tree</a></p>
+"http://www.geeksforgeeks.org/sorted-order-printing-of-an-array-that-represents-a-bst/">Sorted order printing of a given array that represents a BST</a></li>
+"http://www.geeksforgeeks.org/inorder-successor-in-binary-search-tree/">Inorder Successor in Binary Search Tree</a></li>
+"http://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/">Find k-th smallest element in BST (Order Statistics in BST)</a></li>
+"http://www.geeksforgeeks.org/kth-largest-element-in-bst-using-o1-extra-space/">K’th smallest element in BST using O(1) Extra Space</a></li>
+"http://www.geeksforgeeks.org/print-bst-keys-in-the-given-range/">Print BST keys in the given range</a></li>
+"http://www.geeksforgeeks.org/sorted-array-to-balanced-bst/">Sorted Array to Balanced BST</a></li>
+"http://www.geeksforgeeks.org/find-the-largest-subtree-in-a-tree-that-is-also-a-bst/">Find the largest BST subtree in a given Binary Tree</a></li>
+"http://www.geeksforgeeks.org/check-for-identical-bsts-without-building-the-trees/">Check for Identical BSTs without building the trees</a></li>
+"http://www.geeksforgeeks.org/add-greater-values-every-node-given-bst/">Add all greater values to every node in a given BST</a></li>
+"http://www.geeksforgeeks.org/remove-bst-keys-outside-the-given-range/">Remove BST keys outside the given range</a></li>
+"http://www.geeksforgeeks.org/check-if-each-internal-node-of-a-bst-has-exactly-one-child/">Check if each internal node of a BST has exactly one child</a></li>
+"http://www.geeksforgeeks.org/find-if-there-is-a-triplet-in-bst-that-adds-to-0/">Find if there is a triplet in a Balanced BST that adds to zero</a></li>
+"http://www.geeksforgeeks.org/merge-two-bsts-with-limited-extra-space/">Merge two BSTs with limited extra space</a></li>
+"http://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/">Two nodes of a BST are swapped, correct the BST</a></li>
+"http://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/">Construct BST from given preorder traversal | Set 1</a></li>
+"http://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversal-set-2/">Construct BST from given preorder traversal | Set 2</a></li>
+"http://www.geeksforgeeks.org/floor-and-ceil-from-a-bst/">Floor and Ceil from a BST</a></li>
+"http://www.geeksforgeeks.org/convert-bst-to-a-binary-tree/">Convert a BST to a Binary Tree such that sum of all greater keys is added to every key</a></li>
+"http://www.geeksforgeeks.org/sorted-linked-list-to-balanced-bst/">Sorted Linked List to Balanced BST</a></li>
+"http://www.geeksforgeeks.org/in-place-conversion-of-sorted-dll-to-balanced-bst/">In-place conversion of Sorted DLL to Balanced BST</a></li>
+"http://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/">Find a pair with given sum in a Balanced BST</a></li>
+"http://www.geeksforgeeks.org/g-fact-18/">Total number of possible Binary Search Trees with n keys</a></li>
+"http://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/">Merge Two Balanced Binary Search Trees</a></li>
+"http://www.geeksforgeeks.org/binary-tree-to-binary-search-tree-conversion/">Binary Tree to Binary Search Tree Conversion</a></li>
+"http://www.geeksforgeeks.org/print-common-nodes-in-two-binary-search-trees/">Print Common Nodes in Two Binary Search Trees</a></li>
+"http://www.geeksforgeeks.org/construct-all-possible-bsts-for-keys-1-to-n/">Construct all possible BSTs for keys 1 to N</a></li>
+"http://www.geeksforgeeks.org/why-is-binary-heap-preferred-over-bst-for-priority-queue/">Why is Binary Heap Preferred over BST for Priority Queue?</a></li>
+"http://www.geeksforgeeks.org/fibonacci-heap-set-1-introduction/">Fibonacci Heap</a></li>
+"http://www.geeksforgeeks.org/tournament-tree-and-binary-heap/">Tournament Tree (Winner Tree) and Binary Heap</a></li>
+"http://www.geeksforgeeks.org/memory-efficient-doubly-linked-list/">Memory efficient doubly linked list</a></li>
+"http://www.geeksforgeeks.org/xor-linked-list-a-memory-efficient-doubly-linked-list-set-1/">XOR Linked List – A Memory Efficient Doubly Linked List | Set 1</a></li>
+"http://www.geeksforgeeks.org/xor-linked-list-a-memory-efficient-doubly-linked-list-set-2/">XOR Linked List – A Memory Efficient Doubly Linked List | Set 2</a></li>
+"http://www.geeksforgeeks.org/skip-list/">Skip List | Set 1 (Introduction)</a></li>
+"http://www.geeksforgeeks.org/self-organizing-list-set-1-introduction/">Self Organizing List | Set 1 (Introduction)</a></li>
+"http://www.geeksforgeeks.org/suffix-tree-application-4-build-linear-time-suffix-array/">Build Linear Time Suffix Array using Suffix Tree</a></li>
+"http://www.geeksforgeeks.org/k-dimensional-tree/">KD Tree (Search and Insert)</a></li>
+"http://www.geeksforgeeks.org/k-dimensional-tree-set-3-delete/">K D Tree (Delete)</a></li>
+"http://www.geeksforgeeks.org/treap-a-randomized-binary-search-tree/">Treap (A Randomized Binary Search Tree)</a></li>
+"http://www.geeksforgeeks.org/tournament-tree-and-binary-heap/">Tournament Tree (Winner Tree) and Binary Heap</a></li>
+"http://www.geeksforgeeks.org/decision-trees-fake-coin-puzzle/">Decision Trees – Fake (Counterfeit) Coin Puzzle (12 Coin Puzzle)</a></li>
+"http://www.geeksforgeeks.org/g-fact-87/">Spaghetti Stack</a></li>
+"http://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/">Binary Indexed Tree</a></li>
+"http://www.geeksforgeeks.org/write-a-c-program-that-given-a-set-a-of-n-numbers-and-another-number-x-determines-whether-or-not-there-exist-two-elements-in-s-whose-sum-is-exactly-x/">Given an array A[] and a number x, check for pair in A[] with sum as x</a></li>
+"http://www.geeksforgeeks.org/majority-element/">Majority Element</a></li>
+"http://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/">Find the Number Occurring Odd Number of Times</a></li>
+"http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/">Largest Sum Contiguous Subarray</a></li>
+"http://www.geeksforgeeks.org/find-the-missing-number/">Find the Missing Number</a></li>
+"http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/">Search an element in a sorted and pivoted array</a></li>
+"http://www.geeksforgeeks.org/merge-one-array-of-size-n-into-another-one-of-size-mn/">Merge an array of size n into another array of size m+n</a></li>
+"http://www.geeksforgeeks.org/median-of-two-sorted-arrays/">Median of two sorted arrays</a></li>
+"http://www.geeksforgeeks.org/write-a-program-to-reverse-an-array/">Write a program to reverse an array</a></li>
+"http://www.geeksforgeeks.org/array-rotation/">Program for array rotation</a></li>
+"http://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/">Reversal algorithm for array rotation</a></li>
+"http://www.geeksforgeeks.org/block-swap-algorithm-for-array-rotation/">Block swap algorithm for array rotation</a></li>
+"http://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/">Maximum sum such that no two elements are adjacent</a></li>
+"http://www.geeksforgeeks.org/leaders-in-an-array/">Leaders in an array</a></li>
+"http://www.geeksforgeeks.org/sort-elements-by-frequency/">Sort elements by frequency | Set 1</a></li>
+"http://www.geeksforgeeks.org/counting-inversions/">Count Inversions in an array</a></li>
+"http://www.geeksforgeeks.org/two-elements-whose-sum-is-closest-to-zero/">Two elements whose sum is closest to zero</a></li>
+"http://www.geeksforgeeks.org/to-find-smallest-and-second-smallest-element-in-an-array/">Find the smallest and second smallest element in an array</a></li>
+"http://www.geeksforgeeks.org/check-for-majority-element-in-a-sorted-array/">Check for Majority Element in a sorted array</a></li>
+"http://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/">Maximum and minimum of an array using minimum number of comparisons</a></li>
+"http://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/">Segregate 0s and 1s in an array</a></li>
+"http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/">k largest(or smallest) elements in an array | added Min Heap method</a></li>
+"http://www.geeksforgeeks.org/maximum-difference-between-two-elements/">Maximum difference between two elements</a></li>
+"http://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/">Union and Intersection of two sorted arrays</a></li>
+"http://www.geeksforgeeks.org/search-floor-and-ceil-in-a-sorted-array/">Floor and Ceiling in a sorted array</a></li>
+"http://www.geeksforgeeks.org/a-product-array-puzzle/">A Product Array Puzzle</a></li>
+"http://www.geeksforgeeks.org/segregate-even-and-odd-numbers/">Segregate Even and Odd numbers</a></li>
+"http://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/">Find the two repeating elements in a given array</a></li>
+"http://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/">Sort an array of 0s, 1s and 2s</a></li>
+"http://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/">Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted</a></li>
+"http://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/">Find duplicates in O(n) time and O(1) extra space</a></li>
+"http://www.geeksforgeeks.org/equilibrium-index-of-an-array/">Equilibrium index of an array</a></li>
+"http://www.geeksforgeeks.org/linked-list-vs-array/">Linked List vs Array</a></li>
+"http://www.geeksforgeeks.org/which-sorting-algorithm-makes-minimum-number-of-writes/">Which sorting algorithm makes minimum number of memory writes?</a></li>
+"http://www.geeksforgeeks.org/turn-an-image-by-90-degree/">Turn an image by 90 degree</a></li>
+"http://www.geeksforgeeks.org/next-greater-element/">Next Greater Element</a></li>
+"http://www.geeksforgeeks.org/check-if-array-elements-are-consecutive/">Check if array elements are consecutive | Added Method 3</a></li>
+"http://www.geeksforgeeks.org/find-the-first-missing-number/">Find the smallest missing number</a></li>
+"http://www.geeksforgeeks.org/count-number-of-occurrences-in-a-sorted-array/">Count the number of occurrences in a sorted array</a></li>
+"http://www.geeksforgeeks.org/g-fact-84/">Interpolation search vs Binary search</a></li>
+"http://www.geeksforgeeks.org/given-an-array-arr-find-the-maximum-j-i-such-that-arrj-arri/">Given an array arr[], find the maximum j – i such that arr[j] &gt; arr[i]</a></li>
+"http://www.geeksforgeeks.org/maximum-of-all-subarrays-of-size-k/">Maximum of all subarrays of size k (Added a O(n) method)</a></li>
+"http://www.geeksforgeeks.org/find-whether-an-array-is-subset-of-another-array-set-1/">Find whether an array is subset of another array | Added Method 3</a></li>
+"http://www.geeksforgeeks.org/find-the-minimum-distance-between-two-numbers/">Find the minimum distance between two numbers</a></li>
+"http://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/">Find the repeating and the missing | Added 3 new methods</a></li>
+"http://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/">Median in a stream of integers (running integers)</a></li>
+"http://www.geeksforgeeks.org/find-a-fixed-point-in-a-given-array/">Find a Fixed Point in a given array</a></li>
+"http://www.geeksforgeeks.org/maximum-length-bitonic-subarray/">Maximum Length Bitonic Subarray</a></li>
+"http://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/">Find the maximum element in an array which is first increasing and then decreasing</a></li>
+"http://www.geeksforgeeks.org/count-smaller-elements-on-right-side/">Count smaller elements on right side</a></li>
+"http://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/">Minimum number of jumps to reach end</a></li>
+"http://www.geeksforgeeks.org/implement-two-stacks-in-an-array/">Implement two stacks in an array</a></li>
+"http://www.geeksforgeeks.org/find-subarray-with-given-sum/">Find subarray with given sum</a></li>
+"http://www.geeksforgeeks.org/dynamic-programming-set-14-maximum-sum-increasing-subsequence/">Dynamic Programming | Set 14 (Maximum Sum Increasing Subsequence)</a></li>
+"http://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/">Longest Monotonically Increasing Subsequence Size (N log N)</a></li>
+"http://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/">Find a triplet that sum to a given value</a></li>
+"http://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/">Find the smallest positive number missing from an unsorted array</a></li>
+"http://www.geeksforgeeks.org/find-the-two-numbers-with-odd-occurences-in-an-unsorted-array/">Find the two numbers with odd occurrences in an unsorted array</a></li>
+"http://www.geeksforgeeks.org/the-celebrity-problem/">The Celebrity Problem</a></li>
+"http://www.geeksforgeeks.org/dynamic-programming-set-15-longest-bitonic-subsequence/">Dynamic Programming | Set 15 (Longest Bitonic Subsequence)</a></li>
+"http://www.geeksforgeeks.org/find-a-sorted-subsequence-of-size-3-in-linear-time/">Find a sorted subsequence of size 3 in linear time</a></li>
+"http://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/">Largest subarray with equal number of 0s and 1s</a></li>
+"http://www.geeksforgeeks.org/dynamic-programming-set-18-partition-problem/">Dynamic Programming | Set 18 (Partition problem)</a></li>
+"http://www.geeksforgeeks.org/maximum-product-subarray/">Maximum Product Subarray</a></li>
+"http://www.geeksforgeeks.org/find-a-pair-with-the-given-difference/">Find a pair with the given difference</a></li>
+"http://www.geeksforgeeks.org/replace-every-element-with-the-greatest-on-right-side/">Replace every element with the next greatest</a></li>
+"http://www.geeksforgeeks.org/dynamic-programming-set-20-maximum-length-chain-of-pairs/">Dynamic Programming | Set 20 (Maximum Length Chain of Pairs)</a></li>
+"http://www.geeksforgeeks.org/find-four-numbers-with-sum-equal-to-given-sum/">Find four elements that sum to a given value | Set 1 (n^3 solution)</a></li>
+"http://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/">Find four elements that sum to a given value | Set 2 ( O(n^2Logn) Solution)</a></li>
+"http://www.geeksforgeeks.org/nearly-sorted-algorithm/">Sort a nearly sorted (or K sorted) array</a></li>
+"http://www.geeksforgeeks.org/maximum-contiguous-circular-sum/">Maximum circular subarray sum</a></li>
+"http://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/">Find the row with maximum number of 1s</a></li>
+"http://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/">Median of two sorted arrays of different sizes</a></li>
+"http://www.geeksforgeeks.org/shuffle-a-given-array/">Shuffle a given array</a></li>
+"http://www.geeksforgeeks.org/find-number-of-triangles-possible/">Count the number of possible triangles</a></li>
+"http://www.geeksforgeeks.org/iterative-quick-sort/">Iterative Quick Sort</a></li>
+"http://www.geeksforgeeks.org/find-number-of-islands/">Find the number of islands</a></li>
+"http://www.geeksforgeeks.org/construction-of-longest-monotonically-increasing-subsequence-n-log-n/">Construction of Longest Monotonically Increasing Subsequence (N log N)</a></li>
+"http://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/">Find the first circular tour that visits all petrol pumps</a></li>
+"http://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/">Arrange given numbers to form the biggest number</a></li>
+"http://www.geeksforgeeks.org/pancake-sorting/">Pancake sorting</a></li>
+"http://www.geeksforgeeks.org/a-pancake-sorting-question/">A Pancake Sorting Problem</a></li>
+"http://www.geeksforgeeks.org/tug-of-war/">Tug of War</a></li>
+"http://www.geeksforgeeks.org/divide-and-conquer-maximum-sum-subarray/">Divide and Conquer | Set 3 (Maximum Subarray Sum)</a></li>
+"http://www.geeksforgeeks.org/counting-sort/">Counting Sort</a></li>
+"http://www.geeksforgeeks.org/merging-intervals/">Merge Overlapping Intervals</a></li>
+"http://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/">Find the maximum repeating number in O(n) time and O(1) extra space</a></li>
+"http://www.geeksforgeeks.org/stock-buy-sell/">Stock Buy Sell to Maximize Profit</a></li>
+"http://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers-publish/">Rearrange positive and negative numbers in O(n) time and O(1) extra space</a></li>
+"http://www.geeksforgeeks.org/sort-elements-by-frequency-set-2/">Sort elements by frequency | Set 2</a></li>
+"http://www.geeksforgeeks.org/find-a-peak-in-a-given-array/">Find a peak element</a></li>
+"http://www.geeksforgeeks.org/print-all-possible-combinations-of-r-elements-in-a-given-array-of-size-n/">Print all possible combinations of r elements in a given array of size n</a></li>
+"http://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/">Given an array of of size n and a number k, find all elements that appear more than n/k times</a></li>
+"http://www.geeksforgeeks.org/find-the-point-where-a-function-becomes-negative/">Find the point where a monotonically increasing function becomes positive first time</a></li>
+"http://www.geeksforgeeks.org/increasing-subsequence-of-length-three-with-maximum-product/">Find the Increasing subsequence of length three with maximum product</a></li>
+"http://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/">Find the minimum element in a sorted and rotated array</a></li>
+"http://www.geeksforgeeks.org/stable-marriage-problem/">Stable Marriage Problem</a></li>
+"http://www.geeksforgeeks.org/merge-k-sorted-arrays/">Merge k sorted arrays | Set 1</a></li>
+"http://www.geeksforgeeks.org/radix-sort/">Radix Sort</a></li>
+"http://www.geeksforgeeks.org/move-zeroes-end-array/">Move all zeroes to end of array</a></li>
+"http://www.geeksforgeeks.org/find-number-pairs-xy-yx/">Find number of pairs such that x^y &gt; y^x</a></li>
+"http://www.geeksforgeeks.org/count-pairs-difference-equal-k/">Count all distinct pairs with difference equal to k</a></li>
+"http://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-2-expected-linear-time/">K’th Smallest/Largest Element in Unsorted Array in Expected Linear Time</a></li>
+"http://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/">Search in a row wise and column wise sorted matrix</a></li>
+"http://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/">Print a given matrix in spiral form</a></li>
+"http://www.geeksforgeeks.org/a-boolean-matrix-question/">A Boolean Matrix Question</a></li>
+"http://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/">Maximum size square sub-matrix with all 1s</a></li>
+"http://www.geeksforgeeks.org/print-unique-rows/">Print unique rows in a given boolean matrix</a></li>
+"http://www.geeksforgeeks.org/inplace-m-x-n-size-matrix-transpose/">Inplace M x N size matrix transpose | Updated</a></li>
+"http://www.geeksforgeeks.org/print-matrix-diagonally/">Print Matrix Diagonally</a></li>
+"http://www.geeksforgeeks.org/dynamic-programming-set-27-max-sum-rectangle-in-a-2d-matrix/">Dynamic Programming | Set 27 (Maximum sum rectangle in a 2D matrix)</a></li>
+"http://www.geeksforgeeks.org/find-the-longest-path-in-a-matrix-with-given-constraints/">Find the longest path in a matrix with given constraints</a></li>
+"http://www.geeksforgeeks.org/find-k-such-that-all-elements-in-kth-row-are-0-and-kth-column-are-1-in-a-boolean-matrix/">Given a Boolean Matrix, find k such that all elements in k’th row are 0 and k’th column are 1</a>.</li>
+"http://www.geeksforgeeks.org/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed/">Find the largest rectangle of 1’s with swapping of columns allowed</a></li>
+"http://www.geeksforgeeks.org/validity-of-a-given-tic-tac-toe-board-configuration/">Validity of a given Tic-Tac-Toe board configuration</a></li>
+"http://www.geeksforgeeks.org/expression-tree/">Expression Tree</a></li>
+<p>You can create a new Data Structure topic and discuss it with other geeks using<strong> <a href="http://qa.geeksforgeeks.org/index.php?qa=ask" target="_blank">Geeksforgeeks Q&amp;A</a> </strong>page. See already discussed <strong><a href="http://qa.geeksforgeeks.org/"target="_blank">Data Structure questions on forum</a></strong>.</p>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.geeksforgeeks.org%2Fdata-structures%2F&layout=button_count&show_faces=false&width=90&action=like&colorscheme=light"
+data-url="http://www.geeksforgeeks.org/data-structures/" data-text="Data Structures"
+<g:plusone size="medium" href="http://www.geeksforgeeks.org/data-structures/"></g:plusone>

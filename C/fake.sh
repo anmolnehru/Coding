@@ -15,3 +15,4 @@ cd ~/Coding
 git add -A
 git commit -m "2pac" 
 git push
+echo 'Write done at' $T >> ~/git_fakepush_log.txt
