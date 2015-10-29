@@ -11,4 +11,7 @@ do
 echo $T >> $T+$a.c
 a=`expr $a + 1`
 done
-cd ..
+cd ~/Coding
+git add -A
+git commit -m "2pac" 
+git push
