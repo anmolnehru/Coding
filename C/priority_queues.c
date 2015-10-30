@@ -52,9 +52,50 @@ void minheap::insert_key(int k)
 	}
 	else
 		harr[heap_size]=k;
-		heap_size++; //inserted the key, now to fix heapify
+		heap_size++; //inserted the key and increased count, now to fix heapify
+		int index=heap_size-1;
+	while(harr[parent[index]]>harr[index] && index!=0) //heads to the top
+	{
+		swap(&harr[parent(index)],&harr[index]);
+		index=parent(index);
 
+	}
 
+}
+
+void minheap::delete_key(int i)
+{
+	
+}
+
+void minheap::minheapify(int i)
+{
+	int l=leftchild(i);
+	int r=rightchild(i);
+
+	//find min
+	int min;
+
+	if(harr[l]<harr[i])
+		min=l;
+	else
+		min=i;
+	if(harr[r]<harr[min])
+		min=r;
+	if(min!=i)
+	{
+		swap(&harr[i],&harr[min]);
+		minheapify(min);
+	}
 
 }
 	
+
+
+void swap(int *x, int *y)
+{
+	int temp;
+	temp=*x;
+	*x=*y;
+	*y=temp;
+}
