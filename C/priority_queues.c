@@ -1,7 +1,11 @@
-//priority queuescrontab 
+//priority queuescrontab
 
 //min heaps and ops\\
 
+
+#include<iostream.h>
+
+using namespace std;
 //structure of a minheap
 class minheap
 {
@@ -32,7 +36,7 @@ public:
 
 	void insert_key(int k); //insert key k
 
-};	
+};
 
 minheap::minheap(int capacity)
 {
@@ -65,7 +69,19 @@ void minheap::insert_key(int k)
 
 void minheap::delete_key(int i)
 {
-	
+
+}
+
+// Decreases value of key at index 'i' to new_val.  It is assumed that
+// new_val is smaller than harr[i].
+void minHeap::decreaseKey(int i, int new_val)
+{
+    harr[i] = new_val;
+    while (i != 0 && harr[parent(i)] > harr[i])
+    {
+       swap(&harr[i], &harr[parent(i)]);
+       i = parent(i);
+    }
 }
 
 void minheap::minheapify(int i)
@@ -89,7 +105,7 @@ void minheap::minheapify(int i)
 	}
 
 }
-	
+
 
 
 void swap(int *x, int *y)
@@ -98,4 +114,22 @@ void swap(int *x, int *y)
 	temp=*x;
 	*x=*y;
 	*y=temp;
+}
+
+// Driver program to test above functions
+int main()
+{
+    MinHeap h(11);
+    h.insertKey(3);
+    h.insertKey(2);
+    h.deleteKey(1);
+    h.insertKey(15);
+    h.insertKey(5);
+    h.insertKey(4);
+    h.insertKey(45);
+    cout << h.extractMin() << " ";
+    cout << h.getMin() << " ";
+    h.decreaseKey(2, 1);
+    cout << h.getMin();
+    return 0;
 }
