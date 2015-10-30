@@ -13,6 +13,6 @@ a=`expr $a + 1`
 done
 cd ~/Coding
 git add -A
-git commit -m "2pac" 
+git commit -m "$T" 
 git push
 echo 'Write done at' $T >> ~/git_fakepush_log.txt
