@@ -15,6 +15,8 @@ int nextsparse(int n) //find the next sparse int given n;
 	{
 		bin.push_back(x&1); //last bit of x is anded with 1
 		x>>1; //right shift x by 1 bit
+
+		//The bin version is already inverted :O
 	}
 
 	//At the end of the loop, bin should have the binary rep of
@@ -22,10 +24,20 @@ int nextsparse(int n) //find the next sparse int given n;
 	size_t length_bin = bin.size();
 
 	//logic to move it forward
-		int i=length_bin-1;  //last index pointed. We traverse from lsb
-			while(bni[i]&&bin[i-1]&&bin[i-2]==0)
-				{
-					
+	//	int i=length_bin-1;  //last index pointed. We traverse from lsb
+	
+	for(i=1;i<n-1;i++)
+	{
+		if(bin[i]==1 && bin[i-1]==1 && bin[i+1]!=1)
+		{
+			bin[i+1]=1;
+
+		}
+
+		for(int j=i;j>=last_final;j--)
+			bin[j]=0;
+
+	}
 
 
 
