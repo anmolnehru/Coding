@@ -22,4 +22,4 @@ cd ~/Coding
 git add -A
 git commit -m "$T" 
 git push
-echo 'Write done at' $T >> ~/git_fakepush_log.txt
+echo 'Write done at' $T 'inserted' $upto 'files :)'>> ~/git_fakepush_log.txt
