@@ -5,14 +5,14 @@ cd ~/Coding/C/fake
 
 a=0
 T="$(date +%s)"
-#up=$(((RANDOM%10)+4))
+#up=$(((date/10000)%10))
 
-upto=shuf -i 1-10 -n 1
+upto=$(shuf -i 1-10 -n 1)
 
 echo $upto
 while [ $a -lt $upto ]
 do
-#cp trial.c script_$a.c
+cp trial.c script_$a.c
 echo $T >> $T+$a.c
 a=`expr $a + 1`
 done
