@@ -5,6 +5,7 @@ cd ~/Coding/C/fake
 
 a=0
 T="$(date +%s)"
+up=RANDOM%20;
 while [ $a -lt 4 ]
 do
 #cp trial.c script_$a.c
