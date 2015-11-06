@@ -7,7 +7,7 @@ a=0
 T="$(date +%s)"
 #up=$(((RANDOM%10)+4))
 
-upto=shuf -i 1-10 -n 1
+upto=shuf 1-10 -n 1
 
 echo $upto
 while [ $a -lt $upto ]
