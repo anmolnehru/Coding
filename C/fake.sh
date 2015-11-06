@@ -9,7 +9,7 @@ T="$(date +%s)"
 
 upto=$(shuf -i 1-10 -n 1)
 
-echo $upto
+#echo $upto
 while [ $a -lt $upto ]
 do
 cp trial.c script_$a.c
@@ -17,7 +17,7 @@ echo $T >> $T+$a.c
 a=`expr $a + 1`
 done
 
-echo reached
+#echo reached
 cd ~/Coding
 git add -A
 git commit -m "$T" 
