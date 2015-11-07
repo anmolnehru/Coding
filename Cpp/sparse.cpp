@@ -28,7 +28,7 @@ int nextsparse(int n) //find the next sparse int given n;
 	
 	for(i=1;i<n-1;i++)
 	{
-		if(bin[i]==1 && bin[i-1]==1 && bin[i+1]!=1)
+		if(bin[i]==0 && bin[i+1]&& bin[i+2])
 		{
 			bin[i+1]=1;
 
