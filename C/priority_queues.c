@@ -1,12 +1,11 @@
 //priority queuescrontab
 
-//min heaps and ops\\
-
-
-#include<iostream.h>
+//min heaps and ops
+#include <iostream>
 
 using namespace std;
 //structure of a minheap
+
 class minheap
 {
 private:
@@ -69,7 +68,7 @@ void minheap::insert_key(int k)
 
 void minheap::delete_key(int i)
 {
-
+return;
 }
 
 // Decreases value of key at index 'i' to new_val.  It is assumed that
@@ -120,13 +119,13 @@ void swap(int *x, int *y)
 int main()
 {
     MinHeap h(11);
-    h.insertKey(3);
-    h.insertKey(2);
+    h.insert_key(3);
+    h.insert_key(2);
     h.deleteKey(1);
-    h.insertKey(15);
-    h.insertKey(5);
-    h.insertKey(4);
-    h.insertKey(45);
+    h.insert_key(15);
+    h.insert_key(5);
+    h.insert_key(4);
+    h.insert_key(45);
     cout << h.extractMin() << " ";
     cout << h.getMin() << " ";
     h.decreaseKey(2, 1);
