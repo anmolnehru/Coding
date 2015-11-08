@@ -5,8 +5,10 @@
  */
 int wordpattern(string pattern, string input) {
 
-
-
+for(int i=0;i<pattern.length();i++)
+	{
+		
+	}
 
 }
 
@@ -19,7 +21,7 @@ int main() {
     string _input;
     getline(cin, _input);
     
-    res = wordpattern(_pattern, _input);
+    if(1 == wordpattern(_pattern, _input);
     fout << res << endl;
     
     fout.close();
