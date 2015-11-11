@@ -1,5 +1,7 @@
 //k random distinct integers from 0->m-1
 
+
+//Not working. Fix it 
 #include "stdio.h"
 #include "stdlib.h"
 
