@@ -1,5 +1,7 @@
 //hackerrank coding challenge question:-
 
+//not working...get it to work
+
 /*
  * Complete the function below.
  */
@@ -7,7 +9,7 @@ int wordpattern(string pattern, string input) {
 
 for(int i=0;i<pattern.length();i++)
 	{
-		
+
 	}
 
 }

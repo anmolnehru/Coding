@@ -1,8 +1,9 @@
-#include<stdio.h>
 #include<iostream>
 
+using namespace std;
 int main()
 
 {
-	cout<<I want to become a great programmer!!
+	cout<<endl<<"I want to become a great programmer!!"<<endl<<endl;
+	return 0;
 }

@@ -98,13 +98,16 @@ for(int i=0;i<first_level.length();i++)
     vector<string> output;
     for(int i=0;i<frequency.length();i++)
     {
-    	 for( map<string,int>::iterator it = wordCount.begin(); it != wordcount.end(); ++it ) {
-    	if(frequency[i]==it->second) //frequency matches
-    		
+    	 for( map<string,int>::iterator it = wordCount.begin(); it != wordcount.end(); ++it ) 
+    	 	{
+    	 		if(frequency[i]==it->second) //frequency matches
+    			output.push_back(it->first); //adds the string (Course ID) to the final output vector
+    		}
 
     }
 
-    }
+
+    return output; //returns the necessary string
 
 
 
@@ -113,14 +116,11 @@ for(int i=0;i<first_level.length();i++)
 
 
      
-}
 
 
 
 
 
-
-}
 
     
     
