@@ -1,13 +1,10 @@
 //class definitions and structs for btrees
-
-
-class node
+typedef struct node
 {
 int data;
 node *left;
 node *right;
-};
-
+}node;
 
 class BinaryTree
 {
@@ -23,9 +20,8 @@ public:
 
 
 private:
-
 	node *root;
-	void destroy_tree(node ); //let's understand these
+	void destroy_tree(node *leaf ); //let's understand these
 	void insert(int key, node *leaf);
     node *search(int key, node *leaf);
 };
@@ -56,43 +52,39 @@ void BinaryTree::insert(int key)
 }
 
 //private version of inser
-void BinaryTree::insert(int key, node *node)
+void BinaryTree::insert(int key, node *leaf)
 {
 
-	//do a recursive insert privately
-
-//if(!abs(root->data))
-
-if(key<node->data)
+if(key < leaf->data)
 {
-	if(node->left!=NULL)
-	insert(key,node->left);
+	if(leaf->left!=NULL)
+	insert(key,leaf->left);
 	else
-	{		
-		//insert(key,node->right);
-		node->left=new node;
-		node->left->data=key;
-		node->left->left=NULL;
-		node->left->right=NULL;
+	{
+		//insert(key,leaf->right);
+		leaf->left=new node;
+		leaf->left->data=key;
+		leaf->left->left=NULL;
+		leaf->left->right=NULL;
 	}
 }
 
 else
 	{
-		if(node->right!=NULL)
-		insert(key,node->right);
+		if(leaf->right!=NULL)
+		insert(key,leaf->right);
 		else
 		{
-			node->right=new node;
-			node->right->data=key;
-			node->right->left=NULL;
-			node->right->right=NULL;
+			leaf->right=new node;
+			leaf->right->data=key;
+			leaf->right->left=NULL;
+			leaf->right->right=NULL;
 		}
 
 	}
 }
 
-BinaryTree::destroy_tree(node *leaf) //can be passed the root of the true, will destroy in bottom up fashion recursively
+void BinaryTree::destroy_tree(node *leaf) //can be passed the root of the true, will destroy in bottom up fashion recursively
 {
 	if(leaf!=NULL)
 	{

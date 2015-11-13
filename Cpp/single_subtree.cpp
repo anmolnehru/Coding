@@ -1,8 +1,9 @@
 #include <iostream>
 #include "single_subtree.h"
 //code to return the number of single-sub-trees in a tree.
-// A single sub tree is a tree with all equal values
+// A single sunodeb tree is a tree with all equal values
 
+using namespace std;
 
 /*struct node
 {
@@ -11,6 +12,11 @@
 	node *right;
 }node;
 */
+
+//function prototype
+
+bool is_single_subtree(node* node, int &count);
+
 int main()
 {
 
@@ -20,8 +26,9 @@ cout<<"enter '#' to terminate accepting input"<<endl;
 //special case needed for the root?
 //int input;
 //cin>>
+BinaryTree ob;
 
-int &count;  //should remain consistent across function calls
+int count=0;  //should remain consistent across function calls
 
 while(1)
 {
@@ -30,24 +37,28 @@ while(1)
 	if(input=='#')
 		break;
 	else
-		insert(input); //basically insert logic creates a bst
+		ob.insert(input); //basically insert logic creates a bst
 
 }
 
-int final_count=is_single_subtree(node,count);
+int final_count;//=is_single_subtree(node,count);
 
 cout<<"The number of subtrees are="<<final_count<<endl;
 
 }
 
-int is_single_subtree(node* node, int &count)
+bool is_single_subtree(node* node, int &count) //returns 1 if subtree is single
 {
-	if(node->left==NULL&&node->right=NULL) //reached leaf - is a single sub tree
+	if(node->left==NULL&&node->right==NULL) //reached leaf - is a single sub tree
 	{
 		count++; //increments count by 1
+		return 1;
 	}
 
-	else if(node->value=node->left->value && node->value==node->right->value && is_single_subtree(node->left) && is_single_subtree(node->right))
-		count++; //should increment count by 1 if a single sub tree
+	else if(node->data=node->left->data && node->data==node->right->data && is_single_subtree(node->left,count) && is_single_subtree(node->right,count))
+		{
+            count++; //should increment count by 1 if a single sub tree
+            return 1;
+        }
 
 }
