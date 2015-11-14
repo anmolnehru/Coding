@@ -1,0 +1,521 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0  34004  2884 ?        Ss   Oct24   0:03 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Oct24   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Oct24   0:24 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Oct24  11:03 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    Oct24   5:06 [rcuos/0]
+root         9  0.0  0.0      0     0 ?        S    Oct24   5:07 [rcuos/1]
+root        10  0.0  0.0      0     0 ?        S    Oct24   7:26 [rcuos/2]
+root        11  0.0  0.0      0     0 ?        S    Oct24   5:08 [rcuos/3]
+root        12  0.0  0.0      0     0 ?        S    Oct24   1:59 [rcuos/4]
+root        13  0.0  0.0      0     0 ?        S    Oct24   4:18 [rcuos/5]
+root        14  0.0  0.0      0     0 ?        S    Oct24   1:54 [rcuos/6]
+root        15  0.0  0.0      0     0 ?        S    Oct24   2:42 [rcuos/7]
+root        16  0.0  0.0      0     0 ?        S    Oct24   0:00 [rcu_bh]
+root        17  0.0  0.0      0     0 ?        S    Oct24   0:00 [rcuob/0]
+root        18  0.0  0.0      0     0 ?        S    Oct24   0:00 [rcuob/1]
+root        19  0.0  0.0      0     0 ?        S    Oct24   0:00 [rcuob/2]
+root        20  0.0  0.0      0     0 ?        S    Oct24   0:00 [rcuob/3]
+root        21  0.0  0.0      0     0 ?        S    Oct24   0:00 [rcuob/4]
+root        22  0.0  0.0      0     0 ?        S    Oct24   0:00 [rcuob/5]
+root        23  0.0  0.0      0     0 ?        S    Oct24   0:00 [rcuob/6]
+root        24  0.0  0.0      0     0 ?        S    Oct24   0:00 [rcuob/7]
+root        25  0.0  0.0      0     0 ?        S    Oct24   0:05 [migration/0]
+root        26  0.0  0.0      0     0 ?        S    Oct24   0:11 [watchdog/0]
+root        27  0.0  0.0      0     0 ?        S    Oct24   0:07 [watchdog/1]
+root        28  0.0  0.0      0     0 ?        S    Oct24   0:03 [migration/1]
+root        29  0.0  0.0      0     0 ?        S    Oct24   0:02 [ksoftirqd/1]
+root        31  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kworker/1:0H]
+root        32  0.0  0.0      0     0 ?        S    Oct24   0:05 [watchdog/2]
+root        33  0.0  0.0      0     0 ?        S    Oct24   0:02 [migration/2]
+root        34  0.0  0.0      0     0 ?        S    Oct24   0:03 [ksoftirqd/2]
+root        36  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kworker/2:0H]
+root        37  0.0  0.0      0     0 ?        S    Oct24   0:05 [watchdog/3]
+root        38  0.0  0.0      0     0 ?        S    Oct24   0:02 [migration/3]
+root        39  0.0  0.0      0     0 ?        S    Oct24   0:02 [ksoftirqd/3]
+root        41  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kworker/3:0H]
+root        42  0.0  0.0      0     0 ?        S    Oct24   0:05 [watchdog/4]
+root        43  0.0  0.0      0     0 ?        S    Oct24   0:03 [migration/4]
+root        44  0.0  0.0      0     0 ?        S    Oct24   0:02 [ksoftirqd/4]
+root        46  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kworker/4:0H]
+root        47  0.0  0.0      0     0 ?        S    Oct24   0:04 [watchdog/5]
+root        48  0.0  0.0      0     0 ?        S    Oct24   0:01 [migration/5]
+root        49  0.0  0.0      0     0 ?        S    Oct24   0:20 [ksoftirqd/5]
+root        51  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kworker/5:0H]
+root        52  0.0  0.0      0     0 ?        S    Oct24   0:04 [watchdog/6]
+root        53  0.0  0.0      0     0 ?        S    Oct24   0:01 [migration/6]
+root        54  0.0  0.0      0     0 ?        S    Oct24   0:00 [ksoftirqd/6]
+root        56  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kworker/6:0H]
+root        57  0.0  0.0      0     0 ?        S    Oct24   0:04 [watchdog/7]
+root        58  0.0  0.0      0     0 ?        S    Oct24   0:02 [migration/7]
+root        59  0.0  0.0      0     0 ?        S    Oct24   0:01 [ksoftirqd/7]
+root        61  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kworker/7:0H]
+root        62  0.0  0.0      0     0 ?        S<   Oct24   0:00 [khelper]
+root        63  0.0  0.0      0     0 ?        S    Oct24   0:00 [kdevtmpfs]
+root        64  0.0  0.0      0     0 ?        S<   Oct24   0:00 [netns]
+root        65  0.0  0.0      0     0 ?        S<   Oct24   0:00 [writeback]
+root        66  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kintegrityd]
+root        67  0.0  0.0      0     0 ?        S<   Oct24   0:00 [bioset]
+root        69  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kblockd]
+root        70  0.0  0.0      0     0 ?        S<   Oct24   0:00 [ata_sff]
+root        71  0.0  0.0      0     0 ?        S    Oct24   0:00 [khubd]
+root        72  0.0  0.0      0     0 ?        S<   Oct24   0:00 [md]
+root        73  0.0  0.0      0     0 ?        S<   Oct24   0:00 [devfreq_wq]
+root        83  0.0  0.0      0     0 ?        S    Oct24   0:02 [khungtaskd]
+root        84  0.0  0.0      0     0 ?        S    Oct24   0:27 [kswapd0]
+root        85  0.0  0.0      0     0 ?        SN   Oct24   0:00 [ksmd]
+root        86  0.0  0.0      0     0 ?        SN   Oct24   1:12 [khugepaged]
+root        87  0.0  0.0      0     0 ?        S    Oct24   0:00 [fsnotify_mark]
+root        88  0.0  0.0      0     0 ?        S    Oct24   0:00 [ecryptfs-kthrea]
+root        89  0.0  0.0      0     0 ?        S<   Oct24   0:00 [crypto]
+root       101  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kthrotld]
+root       103  0.0  0.0      0     0 ?        S    Oct24   0:00 [scsi_eh_0]
+root       104  0.0  0.0      0     0 ?        S    Oct24   0:00 [scsi_eh_1]
+root       125  0.0  0.0      0     0 ?        S<   Oct24   0:00 [deferwq]
+root       126  0.0  0.0      0     0 ?        S<   Oct24   0:00 [charger_manager]
+root       173  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kpsmoused]
+root       174  0.0  0.0      0     0 ?        S    Oct24   0:00 [scsi_eh_2]
+root       175  0.0  0.0      0     0 ?        S    Oct24   0:00 [scsi_eh_3]
+root       176  0.0  0.0      0     0 ?        S    Oct24   0:00 [scsi_eh_4]
+root       177  0.0  0.0      0     0 ?        S    Oct24   0:00 [scsi_eh_5]
+root       178  0.0  0.0      0     0 ?        S    Oct24   0:00 [scsi_eh_6]
+root       179  0.0  0.0      0     0 ?        S    Oct24   0:00 [scsi_eh_7]
+root       242  0.0  0.0      0     0 ?        S    Oct24   1:56 [jbd2/sda1-8]
+root       243  0.0  0.0      0     0 ?        S<   Oct24   0:00 [ext4-rsv-conver]
+root       366  0.0  0.0  19600   696 ?        S    Oct24   0:00 upstart-udev-bridge --daemon
+root       371  0.0  0.0  52120  1912 ?        Ss   Oct24   0:00 /lib/systemd/systemd-udevd --daemon
+anmol      390  0.0  0.4 1006996 80684 ?       Sl   Nov09   0:21 /opt/spotify/spotify-client/Data/SpotifyHelper --type=renderer --js-flags=--harmony-proxies --no-sandbox --lang=en-US --lang=en-US --locales-dir-path=/opt/spotify/spotify-client/Data/locales --log-severity=disable --resources-dir-path=/opt/spotify/spotify-client/Data --product-version=Spotify/0.9.17.1.g9b85d436 --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=17563.14.1133504889
+root       423  0.0  0.0      0     0 ?        S<   Oct24   0:00 [edac-poller]
+root       443  0.0  0.0      0     0 ?        S<   Oct24   0:00 [kvm-irqfd-clean]
+root       463  0.0  0.0      0     0 ?        S<   Oct24   0:00 [hd-audio0]
+root       486  0.0  0.0      0     0 ?        S<   Oct24   0:00 [hd-audio1]
+root       603  0.0  0.0  15256   568 ?        S    Oct24   0:00 upstart-socket-bridge --daemon
+anmol      719  0.0  1.5 1309984 255692 ?      Sl   Nov07   5:01 /usr/lib/chromium-browser/chro                          
+message+   744  0.0  0.0  42788  4668 ?        Ss   Oct24   2:14 dbus-daemon --system --fork
+root       800  0.0  0.0 330260  2020 ?        Ssl  Oct24   0:00 /usr/sbin/ModemManager
+root       806  0.0  0.0  15272   564 ?        S    Oct24   0:00 upstart-file-bridge --daemon
+root       817  0.0  0.0  19292  1036 ?        Ss   Oct24   0:00 /usr/sbin/bluetoothd
+root       826  0.0  0.0      0     0 ?        S<   Oct24   0:00 [krfcommd]
+syslog     850  0.0  0.1 256228 22340 ?        Ssl  Oct24   0:15 rsyslogd
+avahi      920  0.0  0.0  32564  1652 ?        S    Oct24   1:20 avahi-daemon: running [knuth.local]
+avahi      925  0.0  0.0  32220   200 ?        S    Oct24   0:00 avahi-daemon: chroot helper
+root       934  0.0  0.0  43556  1528 ?        Ss   Oct24   0:01 /lib/systemd/systemd-logind
+root       943  0.0  0.0  22192   684 tty4     Ss+  Oct24   0:00 /sbin/getty -8 38400 tty4
+root       947  0.0  0.0  22192   684 tty5     Ss+  Oct24   0:00 /sbin/getty -8 38400 tty5
+root       957  0.0  0.0  22192   684 tty2     Ss+  Oct24   0:00 /sbin/getty -8 38400 tty2
+root       958  0.0  0.0  22192   684 tty3     Ss+  Oct24   0:00 /sbin/getty -8 38400 tty3
+root       961  0.0  0.0  22192   684 tty6     Ss+  Oct24   0:00 /sbin/getty -8 38400 tty6
+root       997  0.0  0.0  61364  1336 ?        Ss   Oct24   0:00 /usr/sbin/sshd -D
+root      1006  0.0  0.0  14992   688 ?        Ss   Oct24   0:00 /usr/sbin/xinetd -dontfork -pidfile /var/run/xinetd.pid -stayalive -inetd_compat -inetd_ipv6
+root      1018  0.0  0.0  23536   376 ?        Ss   Oct24   0:00 /usr/sbin/vsftpd
+root      1060  0.0  0.0   4364   468 ?        Ss   Oct24   0:53 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+root      1087  0.0  0.0  19188   624 ?        Ss   Oct24   1:41 /usr/sbin/irqbalance
+daemon    1089  0.0  0.0  19136   132 ?        Ss   Oct24   0:00 atd
+root      1124  0.0  0.0  75484  1972 ?        Ss   Oct24   0:00 /usr/sbin/cups-browsed
+root      1203  0.0  0.0 347644  4284 ?        Ssl  Oct24   0:32 NetworkManager
+root      1209  0.0  0.0 293612 10552 ?        Sl   Oct24   2:03 /usr/lib/policykit-1/polkitd --no-debug
+whoopsie  1238  0.0  0.0 363436  2548 ?        Ssl  Oct24   0:00 whoopsie
+root      1274  0.0  0.0 351752  3680 ?        SLsl Oct24   0:19 lightdm
+root      1309  0.9  1.5 520104 246676 tty7    Rs+  Oct24 266:34 /usr/bin/X -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1323  0.0  0.0 295460 10448 ?        Sl   Oct24   2:13 /usr/lib/accountsservice/accounts-daemon
+kernoops  1328  0.0  0.0  37140   696 ?        Ss   Oct24   0:18 /usr/sbin/kerneloops
+nobody    1341  0.0  0.0  37400  1176 ?        S    Oct24   0:32 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+nvidia-+  1531  0.0  0.0  17048   388 ?        Ss   Oct24   0:00 /usr/bin/nvidia-persistenced --user nvidia-persistenced
+root      1558  0.0  0.2 244280 33208 ?        Ssl  Oct24   1:49 /usr/bin/ruby /usr/bin/puppet agent
+root      1720  0.0  0.0      0     0 ?        S    21:50   0:00 [kworker/5:1]
+root      1737  0.0  0.0  22192   684 tty1     Ss+  Oct24   0:00 /sbin/getty -8 38400 tty1
+root      1744  0.0  0.0      0     0 ?        S    Oct24   0:00 [kauditd]
+root      1801  0.0  0.0 193016 16012 ?        Sl   Oct24   0:02 lightdm --session-child 12 19
+root      1842  0.0  0.0 239336  2704 ?        Sl   Oct24   0:00 /usr/lib/upower/upowerd
+anmol     2051 34.2  3.7 6438116 617232 ?      Sl   Oct31 6040:17 /usr/local/MATLAB/R2014b/bin/glnxa64/MATLAB
+rtkit     2064  0.0  0.0 168912  1072 ?        SNl  Oct24   0:22 /usr/lib/rtkit/rtkit-daemon
+anmol     2180  0.0  1.0 750072 172928 ?       SLl  Oct24   2:15 /usr/bin/gnome-keyring-daemon --daemonize --login
+anmol     2182  0.0  0.0  42376  1964 ?        Ss   Oct24   0:05 init --user
+root      2275  0.0  0.0      0     0 ?        S    21:53   0:00 [kworker/6:0]
+anmol     2290  0.0  0.0  42160  4020 ?        Ss   Oct24   1:58 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-mvBn4SZFug
+anmol     2302  0.0  0.0  24476   944 ?        Ss   Oct24   0:00 upstart-event-bridge
+anmol     2308  0.0  0.0  80500  2096 ?        Ss   Oct24   0:02 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+anmol     2317  0.1  0.7 444636 128596 ?       Ssl  Oct24  33:50 /usr/bin/ibus-daemon --daemonize --xim
+anmol     2354  0.0  0.1 1308584 17604 ?       Ssl  Oct24   1:25 /usr/lib/unity-settings-daemon/unity-settings-daemon
+anmol     2359  0.0  0.0 337632  1864 ?        Ssl  Oct24   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+anmol     2360  0.0  0.0 588308  6420 ?        Ssl  Oct24   0:06 gnome-session --session=gnome-fallback --disable-acceleration-check
+anmol     2365  0.0  0.0  39380  1836 ?        S    Oct24   0:01 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+anmol     2368  0.0  0.0  24596   624 ?        S    Oct24   0:15 upstart-dbus-bridge --daemon --session --user --bus-name session
+anmol     2371  0.0  0.0  24612   584 ?        S    Oct24   0:03 upstart-dbus-bridge --daemon --system --user --bus-name system
+anmol     2372  0.0  0.0  32960   724 ?        S    Oct24   0:00 upstart-file-bridge --daemon --user
+anmol     2375  0.0  0.0 348136  4784 ?        Sl   Oct24   0:03 /usr/lib/gvfs/gvfsd
+anmol     2379  0.0  0.0 345660 10336 ?        Sl   Oct24   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1012/gvfs -f -o big_writes
+anmol     2389  0.0  0.0 283060  1816 ?        Sl   Oct24   0:00 /usr/lib/ibus/ibus-dconf
+anmol     2390  0.0  0.4 649768 70968 ?        Sl   Oct24   4:14 /usr/lib/ibus/ibus-ui-gtk3
+anmol     2392  0.0  0.0 391392  6580 ?        Sl   Oct24   0:04 /usr/lib/ibus/ibus-x11 --kill-daemon
+anmol     2400  0.0  0.0 125008  2156 ?        Sl   Oct24   0:09 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+anmol     2420  0.0  0.0 643388 14896 ?        Sl   Oct24   2:07 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+anmol     2427  0.0  0.0 207324  4372 ?        Sl   Oct24   3:41 /usr/lib/ibus/ibus-engine-simple
+colord    2441  0.0  0.0 302332  4248 ?        Sl   Oct24   0:01 /usr/lib/colord/colord
+anmol     2443  0.0  0.0 178436  2368 ?        Sl   Oct24   0:00 /usr/lib/dconf/dconf-service
+anmol     2450  0.3  0.0 520096  6316 ?        Sl   Oct24 108:50 /usr/bin/pulseaudio --start --log-target=syslog
+anmol     2474  0.0  0.0  96216  1344 ?        S    Oct24   0:00 /usr/lib/pulseaudio/pulse/gconf-helper
+anmol     2476  0.0  0.0  60592  3260 ?        S    Oct24   0:02 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+anmol     2502  0.0  0.1 668104 17084 ?        Sl   Oct24   4:36 metacity
+anmol     2508  0.0  0.5 868668 94884 ?        Sl   Oct24  10:56 gnome-panel
+anmol     2512  0.0  0.0 265860  1716 ?        Sl   Oct24   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+anmol     2514  0.0  0.0 735060 12772 ?        Sl   Oct24   0:04 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+anmol     2518  0.0  0.0 760984  8612 ?        Sl   Oct24   0:03 nm-applet
+anmol     2519  0.0  0.0 555732  7740 ?        Sl   Oct24   0:12 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+anmol     2526  0.0  0.0 360480  2516 ?        Sl   Oct24   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+anmol     2528  0.0  0.0  25228  1428 ?        S    Oct24   0:00 /sbin/initctl emit indicator-services-start
+anmol     2529  0.0  0.8 2380300 140444 ?      Sl   Oct24   9:28 nautilus -n
+anmol     2533  0.0  0.0 337308  1780 ?        Ssl  Oct24   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+anmol     2539  0.0  0.0 280672  1896 ?        Ssl  Oct24   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+anmol     2542  0.0  0.0 1165596 4792 ?        Ssl  Oct24   0:20 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+anmol     2548  0.0  0.0 560588  4840 ?        Ssl  Oct24   1:09 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+anmol     2552  0.0  0.0 830556  3484 ?        Ssl  Oct24   0:47 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+anmol     2573  0.0  0.0 237720  3032 ?        Sl   Nov05   0:00 /usr/lib/geoclue/geoclue-master
+anmol     2575  0.1  0.2 486352 42916 ?        Sl   Oct24  41:46 /usr/bin/gnome-screensaver --no-daemon
+anmol     2580  0.0  0.7 1187416 126716 ?      Sl   Nov08   1:00 /usr/lib/chromium-browser/chro                          
+anmol     2626  0.0  0.0 329960  3864 ?        Sl   Nov05   0:00 /usr/lib/x86_64-linux-gnu/ubuntu-geoip-provider
+anmol     2630  0.0  0.0 309464  3696 ?        Sl   Oct24   0:09 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+anmol     2642  0.0  0.0 1097520 7672 ?        Sl   Oct24   0:00 /usr/lib/evolution/evolution-source-registry
+root      2647  0.0  0.0 371420  3692 ?        Sl   Oct24   4:25 /usr/lib/udisks2/udisksd --no-debug
+anmol     2659  0.0  0.0 206980  2244 ?        Sl   Oct24   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+anmol     2663  0.0  0.0 288140  2000 ?        Sl   Oct24   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+anmol     2668  0.0  0.0 214616  2228 ?        Sl   Oct24   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+anmol     2678  0.0  0.0 669452  6120 ?        Sl   Oct24   0:19 /usr/lib/gnome-online-accounts/goa-daemon
+anmol     2681  0.0  0.0 1141632 6184 ?        Sl   Oct24   0:01 /usr/lib/evolution/evolution-calendar-factory
+anmol     2685  0.0  0.0 730376  2608 ?        Sl   Oct24   0:14 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+anmol     2696  0.0  0.0 323040  3936 ?        Sl   Oct24   0:02 /usr/lib/telepathy/mission-control-5
+anmol     2704  0.0  0.0 272556  1632 ?        Sl   Oct24   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.6 /org/gtk/gvfs/exec_spaw/1
+anmol     2715  0.0  0.0 459396  5304 ?        Sl   Oct24   0:01 telepathy-indicator
+anmol     2737  0.0  0.0 861524  6804 ?        Sl   Oct24   0:34 zeitgeist-datahub
+anmol     2742  0.0  0.0 349244  4524 ?        Sl   Oct24   0:03 /usr/bin/zeitgeist-daemon
+anmol     2763  0.0  0.0 252292  4684 ?        Sl   Oct24   0:23 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+anmol     2791  0.0  0.0  13588   428 ?        S    Oct24   0:00 /bin/cat
+anmol     2795  0.0  0.8 762092 146932 ?       Sl   Oct24   3:01 /usr/lib/x86_64-linux-gnu/indicator-applet-complete
+anmol     2807  0.0  0.0 126828  2384 ?        Sl   Oct24   0:00 /usr/lib/gvfs/gvfsd-metadata
+anmol     2811  0.0  0.0 363296  1824 ?        Sl   Oct24   0:00 /usr/lib/x86_64-linux-gnu/indicator-sync/indicator-sync-service
+anmol     2813  0.0  0.0 591060  6844 ?        Sl   Oct24   0:03 /usr/lib/x86_64-linux-gnu/indicator-keyboard-service --use-gtk
+anmol     2822  0.0  0.0 802148 11888 ?        Sl   Oct24   0:05 /usr/lib/evolution/3.10/evolution-alarm-notify
+anmol     2886  0.0  0.6 1155960 105964 ?      Sl   Nov10   0:51 /usr/lib/chromium-browser/chro                          
+root      2898  0.0  0.0 202164  2936 ?        Sl   Oct24   0:29 /usr/lib/udisks/udisks-daemon --no-debug
+root      2899  0.0  0.0  54328   412 ?        S    Oct24   0:00 udisks-daemon: not polling any devices  
+anmol     2937  0.0  0.0 504592 10108 ?        Sl   Oct24   0:07 update-notifier
+anmol     3538  0.0  0.0 380316  8892 ?        Sl   Oct24   0:01 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+anmol     3854  2.3  0.5 1566240 98124 ?       Sl   22:03   1:57 codeblocks
+anmol     3963  0.1  0.4 1110276 72668 ?       Sl   Nov07   8:42 /usr/lib/chromium-browser/chro                          
+anmol     3979  0.0  0.4 1142644 78200 ?       Sl   Nov07   2:13 /usr/lib/chromium-browser/chro                          
+anmol     4477  0.1  0.2 775992 43044 ?        Sl   Oct24  34:19 /usr/lib/gnome-terminal/gnome-terminal-server
+anmol     4484  0.0  0.0  14820   740 ?        S    Oct24   0:00 gnome-pty-helper
+anmol     4485  0.0  0.0  31572  5068 pts/0    Ss+  Oct24   0:00 /bin/bash
+anmol     5328  0.0  0.1 753444 32588 ?        Ssl  Nov05   0:06 /usr/lib/x86_64-linux-gnu/hud/hud-service
+anmol     6078  0.0  0.4 1124636 80968 ?       Sl   Nov09   0:39 /usr/lib/chromium-browser/chro                          
+anmol     8461  0.0  0.0  31716  6160 pts/35   Ss   Oct30   0:02 bash
+root      8574  0.0  0.0      0     0 ?        S    22:38   0:00 [kworker/1:0]
+root      8588  0.0  0.0      0     0 ?        S    22:38   0:00 [kworker/5:2]
+root      9352  0.0  0.0      0     0 ?        S<   Nov11   0:04 [kworker/u17:2]
+anmol     9397  0.1  0.6 1153120 109440 ?      Sl   22:44   0:03 /usr/lib/chromium-browser/chro                          
+root      9617  0.0  0.0      0     0 ?        S    22:46   0:00 [kworker/0:0]
+hkim      9651  0.0  0.0 818504 16056 ?        Sl   Nov04   0:11 file-roller /home/hkim/Downloads/HW5 Download Nov 4, 2015 604 PM.zip
+anmol    10673  0.0  0.0  31116  5928 pts/25   Ss   Nov08   0:00 bash
+root     11262  0.0  0.0      0     0 ?        S    22:58   0:00 [kworker/1:2]
+root     11699  0.0  0.0      0     0 ?        S    23:02   0:00 [kworker/4:0]
+root     12377  0.0  0.0      0     0 ?        S    23:09   0:00 [kworker/u16:1]
+anmol    12541  0.3  0.2 2672876 38116 pts/35  Sl   23:11   0:02 c:\TeamViewer\TeamViewer.exe                                                                                    
+anmol    12553  0.0  0.7 1177556 118020 ?      Sl   Nov09   1:27 /usr/lib/chromium-browser/chro                          
+root     12571  0.2  1.5 637972 259984 tty8    Ss+  Nov03  38:07 /usr/bin/X -core :1 -seat seat0 -auth /var/run/lightdm/root/:1 -nolisten tcp vt8 -novtswitch
+anmol    12652  0.1  0.0   6252  2352 ?        Ss   23:11   0:01 /opt/teamviewer/tv_bin/wine/bin/wineserver
+anmol    12668  0.0  0.0 2647172 2280 ?        Ssl  23:11   0:00 C:\windows\system32\services.exe                                                                                    
+anmol    12686  0.0  0.0 2659200 7772 ?        Ssl  23:11   0:00 C:\windows\system32\explorer.exe /desktop                                                                                    
+anmol    12690  0.0  0.0 385524  7100 pts/35   Sl   23:11   0:00 /opt/teamviewer/tv_bin/TVGuiSlave.64 13 1
+anmol    12693  0.0  0.0  66680 16196 pts/35   Sl   23:11   0:00 /opt/teamviewer/tv_bin/TVGuiDelegate 13 1
+root     12785  0.0  0.0      0     0 ?        S    23:11   0:00 [kworker/0:1]
+root     12796  0.0  0.0 193044 13864 ?        Sl   Nov03   0:01 lightdm --session-child 13 24
+root     12800  0.0  0.0      0     0 ?        S    23:11   0:00 [kworker/3:1]
+sathya   12835  0.0  0.0 520444  2420 ?        Sl   Nov03   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+sathya   12837  0.0  0.0  42372  2040 ?        Ss   Nov03   0:00 init --user
+anmol    12912  1.2  0.8 1224444 132608 ?      Sl   23:12   0:10 /usr/lib/chromium-browser/chro                          
+sathya   12938  0.0  0.0  40604  2644 ?        Ss   Nov03   0:13 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-tbJDRzBR09
+sathya   12950  0.0  0.0  24476   940 ?        Ss   Nov03   0:00 upstart-event-bridge
+sathya   12958  0.0  0.0  80500  1160 ?        Ss   Nov03   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+sathya   12970  0.0  0.0 642284 12592 ?        Sl   Nov03   0:03 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+sathya   12983  0.0  0.0  24556   512 ?        S    Nov03   0:04 upstart-dbus-bridge --daemon --session --user --bus-name session
+sathya   12985  0.0  0.0  32960   580 ?        S    Nov03   0:00 upstart-file-bridge --daemon --user
+sathya   12987  0.0  0.0 337580  1744 ?        Sl   Nov03   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+sathya   12993  0.0  0.0  24484   500 ?        S    Nov03   0:02 upstart-dbus-bridge --daemon --system --user --bus-name system
+sathya   12994  0.0  0.0  39380  1852 ?        S    Nov03   0:00 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+sathya   12997  0.0  0.0 125008  2016 ?        Sl   Nov03   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+sathya   13007  0.0  0.0 199080  2396 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfsd
+sathya   13016  0.0  0.0 345660  1600 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1015/gvfs -f -o big_writes
+sathya   13022  0.0  0.0 178324  2236 ?        Sl   Nov03   0:00 /usr/lib/dconf/dconf-service
+sathya   13034  0.0  0.0 365456  4320 ?        Ssl  Nov03   0:10 /usr/bin/ibus-daemon --daemonize --xim
+sathya   13072  0.0  0.0 454168  2684 ?        S<l  Nov03   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+sathya   13090  0.0  0.0  60460  3004 ?        S    Nov03   0:01 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+sathya   13105  0.0  0.0  96216  1392 ?        S    Nov03   0:00 /usr/lib/pulseaudio/pulse/gconf-helper
+sathya   13128  0.0  0.0 283048  1832 ?        Sl   Nov03   0:00 /usr/lib/ibus/ibus-dconf
+sathya   13129  0.0  0.0 565432  7228 ?        Sl   Nov03   0:02 /usr/lib/ibus/ibus-ui-gtk3
+sathya   13131  0.0  0.0 391256  3828 ?        Sl   Nov03   0:01 /usr/lib/ibus/ibus-x11 --kill-daemon
+sathya   13147  0.0  0.0 207328  1832 ?        Sl   Nov03   0:02 /usr/lib/ibus/ibus-engine-simple
+sathya   13190  0.0  0.0 816456 12796 ?        Ssl  Nov03   0:26 /usr/lib/unity-settings-daemon/unity-settings-daemon
+sathya   13194  0.0  0.1 753604 17188 ?        Ssl  Nov03   0:02 /usr/lib/x86_64-linux-gnu/hud/hud-service
+sathya   13201  0.0  0.0 579848  5968 ?        Ssl  Nov03   0:00 gnome-session --session=ubuntu
+sathya   13206  0.0  0.5 634928 87224 ?        Ssl  Nov03   1:10 /usr/lib/unity/unity-panel-service
+anmol    13210  1.1  0.5 1142432 95972 ?       Sl   23:13   0:08 /usr/lib/chromium-browser/chro                          
+sathya   13273  0.0  0.0 363296  1968 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-sync/indicator-sync-service
+sathya   13275  0.0  0.0 812416  5712 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard-service --use-gtk
+sathya   13280  0.0  0.0 337320  1752 ?        Ssl  Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+sathya   13282  0.0  0.0 265844  1716 ?        Ssl  Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+sathya   13284  0.0  0.0 280664  1764 ?        Ssl  Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+sathya   13287  0.0  0.0 837920  6152 ?        Ssl  Nov03   0:09 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+sathya   13289  0.0  0.0 553908  4216 ?        Ssl  Nov03   0:14 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+sathya   13292  0.0  0.0 451208  6320 ?        Ssl  Nov03   0:04 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+sathya   13307  0.0  0.0 896072  3300 ?        Ssl  Nov03   0:23 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+sathya   13309  0.0  0.0 1097520 5484 ?        Sl   Nov03   0:00 /usr/lib/evolution/evolution-source-registry
+sathya   13323  0.0  0.0 286748  2536 ?        Ssl  Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+sathya   13328  0.0  0.0 344804  5532 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/notify-osd
+sathya   13361  0.0  0.0 669452  7572 ?        Sl   Nov03   0:11 /usr/lib/gnome-online-accounts/goa-daemon
+sathya   13368  0.7  0.9 2215316 156172 ?      Sl   Nov03  94:17 compiz
+sathya   13377  0.0  0.0 322600  3636 ?        Sl   Nov03   0:00 /usr/lib/telepathy/mission-control-5
+sathya   13386  0.0  0.0 958072  3472 ?        Sl   Nov03   0:00 /usr/lib/evolution/evolution-calendar-factory
+sathya   13393  0.0  0.0 126656  1632 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfsd-metadata
+sathya   13398  0.0  0.0 760564  7504 ?        Sl   Nov03   0:00 nm-applet
+sathya   13403  0.0  0.2 1265692 35816 ?       Sl   Nov03   3:55 nautilus -n
+sathya   13405  0.0  0.0 481188  4816 ?        Sl   Nov03   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+sathya   13406  0.0  0.0 735096  8860 ?        Sl   Nov03   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+sathya   13427  0.0  0.0 374992  5760 ?        Sl   Nov03   0:04 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+sathya   13434  0.0  0.0 206980  1828 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+sathya   13440  0.0  0.0 288140  1632 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+sathya   13447  0.0  0.0 214616  1800 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+sathya   13454  0.0  0.0 435320  2004 ?        Sl   Nov03   0:11 /usr/lib/gvfs/gvfsd-trash --spawner :1.10 /org/gtk/gvfs/exec_spaw/0
+sathya   13473  0.0  0.0 272556  1696 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.10 /org/gtk/gvfs/exec_spaw/1
+sathya   13486  0.3  2.0 1936608 335660 ?      Sl   Nov03  49:58 /usr/lib/firefox/firefox
+sathya   13584  0.0  0.0 459388  5656 ?        Sl   Nov03   0:00 telepathy-indicator
+sathya   13599  0.0  0.0 991932  2704 ?        Sl   Nov03   0:10 zeitgeist-datahub
+sathya   13604  0.0  0.0 348972  2844 ?        Sl   Nov03   0:00 /usr/bin/zeitgeist-daemon
+sathya   13611  0.0  0.0 326048  4180 ?        Sl   Nov03   0:11 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+root     13629  0.0  0.0      0     0 ?        S    23:15   0:00 [kworker/2:2]
+sathya   13645  0.0  0.0  13588   432 ?        S    Nov03   0:00 /bin/cat
+sathya   13654  0.0  0.1 802132 16480 ?        Sl   Nov03   0:01 /usr/lib/evolution/3.10/evolution-alarm-notify
+sathya   13682  0.0  0.0 735604 12496 ?        Sl   Nov03   0:14 /usr/lib/gnome-terminal/gnome-terminal-server
+sathya   13692  0.0  0.0  14820   636 ?        S    Nov03   0:00 gnome-pty-helper
+sathya   13709  0.0  0.0 737072 10556 ?        Sl   Nov03   0:03 update-notifier
+root     13717  0.0  0.0      0     0 ?        S    23:15   0:00 [kworker/7:1]
+sathya   13771  0.0  0.0 237864  2812 ?        Sl   Nov03   0:00 /usr/lib/geoclue/geoclue-master
+sathya   13775  0.0  0.0 330208  3196 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/ubuntu-geoip-provider
+root     13796  0.0  0.0      0     0 ?        S    23:16   0:00 [kworker/u16:2]
+sathya   13862  0.0  0.0 527548  2156 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+sathya   13898  0.0  0.0 939428  2576 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfsd-http --spawner :1.10 /org/gtk/gvfs/exec_spaw/2
+anmol    14198  0.4  0.4 1097332 72104 ?       Sl   19:24   1:11 /usr/lib/chromium-browser/chro                          
+anmol    14242  0.0  1.0 1240804 165008 ?      Sl   Nov08   2:04 /usr/lib/chromium-browser/chro                          
+anmol    14295  0.1  0.0 259372 12100 pts/35   Sl+  23:20   0:00 vim legr_core.cpp
+anmol    14352  0.0  0.0  31112  5248 pts/7    Ss+  Nov09   0:00 bash
+anmol    14364  0.7  0.8 1143072 134300 ?      Sl   23:21   0:02 /usr/lib/chromium-browser/chro                          
+anmol    14402  0.9  0.4 1116768 73492 ?       Sl   23:21   0:02 /usr/lib/chromium-browser/chro                          
+root     14415  0.0  0.0      0     0 ?        S    23:21   0:00 [kworker/u16:0]
+root     14442  0.0  0.0      0     0 ?        S    23:21   0:00 [kworker/2:1]
+root     14471  0.0  0.0      0     0 ?        S    23:21   0:00 [kworker/0:2]
+root     14472  0.0  0.0      0     0 ?        S    23:21   0:00 [kworker/0:3]
+anmol    14492  0.5  0.5 1133896 93884 ?       Sl   23:21   0:01 /usr/lib/chromium-browser/chro                          
+root     14506  0.0  0.0      0     0 ?        S    23:21   0:00 [kworker/3:0]
+anmol    14530  0.0  0.9 1234268 154200 ?      Sl   Nov08   2:31 /usr/lib/chromium-browser/chro                          
+anmol    14835  2.2  0.8 1153056 141332 ?      Sl   23:24   0:01 /usr/lib/chromium-browser/chro                          
+root     14849  0.0  0.0      0     0 ?        S    23:24   0:00 [kworker/5:0]
+root     14971  0.0  0.0  84220  2020 ?        S    23:26   0:00 CRON
+anmol    14972  0.0  0.0   4440   648 ?        Ss   23:26   0:00 /bin/sh -c /usr/bin/vim
+anmol    14973  0.0  0.0 248412  7744 ?        Sl   23:26   0:00 /usr/bin/vim
+anmol    14975  0.0  0.0  24820  1344 pts/25   R+   23:26   0:00 ps aux
+anmol    15100  0.3  0.4 1127496 80400 ?       Sl   19:28   0:55 /usr/lib/chromium-browser/chro                          
+anmol    15151  0.0  0.5 1145636 96700 ?       Sl   Nov10   0:41 /usr/lib/chromium-browser/chro                          
+anmol    15188  0.0  0.6 1128224 100800 ?      Sl   Nov10   0:27 /usr/lib/chromium-browser/chro                          
+anmol    15211  0.0  0.6 1142564 105100 ?      Sl   Nov10   0:27 /usr/lib/chromium-browser/chro                          
+anmol    15232  0.0  0.6 1137444 102220 ?      Sl   Nov10   0:27 /usr/lib/chromium-browser/chro                          
+root     15313  0.0  0.0      0     0 ?        S<   Oct31   0:00 [kworker/1:1H]
+root     15314  0.0  0.0      0     0 ?        S<   Oct31   0:00 [kworker/2:1H]
+root     15315  0.0  0.0      0     0 ?        S<   Oct31   0:00 [kworker/3:1H]
+root     15316  0.0  0.0      0     0 ?        S<   Oct31   0:00 [kworker/4:1H]
+root     15317  0.0  0.0      0     0 ?        S<   Oct31   0:00 [kworker/5:1H]
+root     15318  0.0  0.0      0     0 ?        S<   Oct31   0:00 [kworker/6:1H]
+root     15319  0.0  0.0      0     0 ?        S<   Oct31   0:00 [kworker/7:1H]
+root     15320  0.0  0.0      0     0 ?        S    Nov02   0:00 [irq/46-mei_me]
+root     15611  0.0  0.0  10228  1480 ?        S    Nov02   0:00 /sbin/dhclient -d -sf /usr/lib/NetworkManager/nm-dhcp-client.action -pf /run/sendsigs.omit.d/network-manager.dhclient-eth0.pid -lf /var/lib/NetworkManager/dhclient-d97aa1f3-ca49-42ee-8031-56e241244901-eth0.lease -cf /var/lib/NetworkManager/dhclient-eth0.conf eth0
+ntp      15747  0.0  0.0  33504  1372 ?        Ss   Nov02   0:33 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 124:133
+anmol    15924  0.0  0.9 1248348 159060 ?      Sl   Nov08   1:15 /usr/lib/chromium-browser/chro                          
+root     16046  0.0  0.0  23652   764 ?        Ss   Oct29   0:06 cron
+lightdm  16089  0.0  0.0  41944  1172 ?        S    Oct24   0:00 init --user --startup-event indicator-services-start
+lightdm  16147  0.0  0.0 435116  2836 ?        Sl   Oct24   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+lightdm  16174  0.0  0.0  96244  1316 ?        S    Oct24   0:00 /usr/lib/pulseaudio/pulse/gconf-helper
+anmol    16271  7.2  1.0 1228632 176908 ?      Sl   Nov08 419:31 /usr/lib/chromium-browser/chro                          
+sathya   16338  0.0  0.0  30776  1120 pts/40   Ss   Nov03   0:00 bash
+sathya   16364  0.4  1.3 3237680 228428 pts/40 Sl+  Nov03  64:24 c:\TeamViewer\TeamViewer.exe -n                                                                                                                        
+anmol    16448  0.0  0.0  31008  5508 ?        S    19:35   0:00 /usr/bin/python /home/anmol/.local/share/mendeleydesktop
+anmol    16451  0.0  0.0      0     0 ?        Z    19:35   0:00 [install-mendele] <defunct>
+anmol    16452  0.1  1.1 3351340 186852 ?      Sl   19:35   0:25 /usr/bin/../../opt/mendeleydesktop/bin/mendeleydesktop --unix-distro-build
+root     16482  0.0  0.0      0     0 ?        S<   Nov04   0:00 [xfsalloc]
+root     16483  0.0  0.0      0     0 ?        S<   Nov04   0:00 [xfs_mru_cache]
+root     16484  0.0  0.0      0     0 ?        S<   Nov04   0:00 [xfslogd]
+root     16487  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsIO]
+root     16488  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsCommit]
+root     16489  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsCommit]
+root     16490  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsCommit]
+root     16491  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsCommit]
+root     16492  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsCommit]
+root     16493  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsCommit]
+root     16494  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsCommit]
+root     16495  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsCommit]
+root     16496  0.0  0.0      0     0 ?        S    Nov04   0:00 [jfsSync]
+root     16516  0.0  0.0      0     0 ?        S<   Nov04   0:00 [bioset]
+anmol    16527  0.0  0.0  30740   920 pts/31   Ss   Oct29   0:00 bash
+sathya   16550  0.2  0.1  27044 21224 ?        Ss   Nov03  31:06 /home/sathya/Downloads/teamviewer/tv_bin/wine/bin/wineserver
+sathya   16556  0.0  0.0 2649224  268 ?        Ssl  Nov03   0:00 C:\windows\system32\services.exe                                                                                                                        
+sathya   16562  0.0  0.0 2659320  768 ?        Ssl  Nov03   0:00 C:\windows\system32\explorer.exe /desktop                                                                                                                        
+sathya   16580  0.0  0.0 212836  3864 pts/40   Sl+  Nov03   5:16 /home/sathya/Downloads/teamviewer/tv_bin/teamviewerd -n -f
+sathya   16613  0.0  0.0 459256  3584 pts/40   Sl+  Nov03   3:24 /home/sathya/Downloads/teamviewer/tv_bin/TVGuiSlave.64 13 6
+sathya   16616  0.0  0.0 114728  2612 pts/40   Sl+  Nov03   2:59 /home/sathya/Downloads/teamviewer/tv_bin/TVGuiDelegate 13 6
+sathya   16722  0.0  0.0 679352  4444 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+sathya   16735  0.0  0.1 603868 19040 ?        Sl   Nov03   0:15 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+sathya   16737  0.0  0.0 694716  2568 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+sathya   16785  0.0  0.0 421992  2472 ?        Sl   Nov03   0:11 /usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+anmol    16793  0.0  0.0  21192  2084 pts/31   S+   Oct29   0:00 watch -n 18000 sh /home/anmol/Coding/C/fake.sh
+sathya   16842  0.0  0.1 1355192 16600 ?       Ssl  Nov03   0:15 /var/lib/dropbox/.dropbox-dist/dropbox-lnx.x86_64-2.10.28/dropbox
+sathya   17123  0.0  0.1 845412 18096 ?        Sl   Nov03   0:18 gedit
+anmol    17173  0.0  0.7 1165748 125600 ?      Sl   14:59   0:10 /usr/lib/chromium-browser/chro                          
+anmol    17218  0.0  0.8 1206844 137568 ?      Sl   14:59   0:19 /usr/lib/chromium-browser/chro                          
+anmol    17563  1.5  1.4 2073932 235984 ?      Sl   Oct29 310:38 spotify
+anmol    17577  0.0  0.0 524320  4504 ?        S    Oct29   0:02 spotify
+anmol    17578  0.0  0.0 338544  3480 ?        S    Oct29   0:00 /opt/spotify/spotify-client/Data/SpotifyHelper --type=zygote --no-sandbox --lang=en-US --locales-dir-path=/opt/spotify/spotify-client/Data/locales --log-severity=disable --resources-dir-path=/opt/spotify/spotify-client/Data
+anmol    17621  0.0  0.2 980376 43208 ?        Sl   Oct29   0:32 /opt/spotify/spotify-client/Data/SpotifyHelper --type=renderer --js-flags=--harmony-proxies --no-sandbox --lang=en-US --lang=en-US --locales-dir-path=/opt/spotify/spotify-client/Data/locales --log-severity=disable --resources-dir-path=/opt/spotify/spotify-client/Data --product-version=Spotify/0.9.17.1.g9b85d436 --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=17563.2.1398090484
+anmol    17624  0.0  0.0 941776 16056 ?        Sl   Oct29   2:05 /opt/spotify/spotify-client/Data/SpotifyHelper --type=renderer --js-flags=--harmony-proxies --no-sandbox --lang=en-US --lang=en-US --locales-dir-path=/opt/spotify/spotify-client/Data/locales --log-severity=disable --resources-dir-path=/opt/spotify/spotify-client/Data --product-version=Spotify/0.9.17.1.g9b85d436 --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=17563.3.839600732
+anmol    17628  0.0  0.2 953616 40428 ?        Sl   Oct29   5:43 /opt/spotify/spotify-client/Data/SpotifyHelper --type=renderer --js-flags=--harmony-proxies --no-sandbox --lang=en-US --lang=en-US --locales-dir-path=/opt/spotify/spotify-client/Data/locales --log-severity=disable --resources-dir-path=/opt/spotify/spotify-client/Data --product-version=Spotify/0.9.17.1.g9b85d436 --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=17563.4.1160926881
+anmol    17654  0.0  0.6 540208 103452 ?       Sl   Oct29   2:08 /opt/spotify/spotify-client/Data/SpotifyHelper --type=gpu-process --channel=17563.5.3894173 --no-sandbox --lang=en-US --locales-dir-path=/opt/spotify/spotify-client/Data/locales --log-severity=disable --resources-dir-path=/opt/spotify/spotify-client/Data --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,19,22 --gpu-vendor-id=0x10de --gpu-device-id=0x0ca0 --gpu-driver-vendor=NVIDIA --gpu-driver-version=340.93 --lang=en-US --locales-dir-path=/opt/spotify/spotify-client/Data/locales --log-severity=disable --resources-dir-path=/opt/spotify/spotify-client/Data
+anmol    17695  0.0  0.6 1021088 102576 ?      Sl   Oct29   0:49 /opt/spotify/spotify-client/Data/SpotifyHelper --type=renderer --js-flags=--harmony-proxies --no-sandbox --lang=en-US --lang=en-US --locales-dir-path=/opt/spotify/spotify-client/Data/locales --log-severity=disable --resources-dir-path=/opt/spotify/spotify-client/Data --product-version=Spotify/0.9.17.1.g9b85d436 --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=17563.6.190934674
+anmol    17717  0.0  0.2 968004 42992 ?        Sl   Oct29   0:44 /opt/spotify/spotify-client/Data/SpotifyHelper --type=renderer --js-flags=--harmony-proxies --no-sandbox --lang=en-US --lang=en-US --locales-dir-path=/opt/spotify/spotify-client/Data/locales --log-severity=disable --resources-dir-path=/opt/spotify/spotify-client/Data --product-version=Spotify/0.9.17.1.g9b85d436 --disable-accelerated-2d-canvas --disable-accelerated-video-decode --channel=17563.7.424134225
+anmol    17918  0.0  0.6 1143200 99440 ?       Sl   15:04   0:11 /usr/lib/chromium-browser/chro                          
+anmol    18071  0.2  1.0 1305136 170940 ?      Sl   19:46   0:26 /usr/lib/chromium-browser/chro                          
+anmol    18190  0.1  0.8 1237916 138196 ?      Sl   19:47   0:14 /usr/lib/chromium-browser/chro                          
+anmol    18220  0.1  0.8 1231768 138044 ?      Sl   19:47   0:13 /usr/lib/chromium-browser/chro                          
+anmol    18258  0.0  0.8 1199452 145364 ?      Sl   19:47   0:08 /usr/lib/chromium-browser/chro                          
+root     18448  0.0  0.0      0     0 ?        S    19:48   0:01 [kworker/3:2]
+sathya   18658  0.0  0.0 213512  1208 ?        Sl   Nov03   0:01 /usr/lib/libreoffice/program/oosplash --impress /tmp/optical Flow Visualization.ppt
+sathya   18773  0.0  0.2 1437012 46712 ?       Sl   Nov03   8:01 /usr/lib/libreoffice/program/soffice.bin --impress /tmp/optical Flow Visualization.ppt --splash-pipe=5
+anmol    18986  0.0  0.5 1131052 89436 ?       Sl   19:52   0:04 /usr/lib/chromium-browser/chro                          
+anmol    19179  0.0  0.9 1227860 162844 ?      Sl   Nov09   1:09 /usr/lib/chromium-browser/chro                          
+anmol    19253  0.0  0.5 1156876 88420 ?       Sl   Nov06   1:11 /usr/lib/chromium-browser/chro                          
+anmol    19269  0.0  0.7 1481804 115968 ?      Sl   Nov06   1:03 /usr/lib/chromium-browser/chro                          
+anmol    19344  0.0  0.6 1144868 98748 ?       Sl   Nov09   0:43 /usr/lib/chromium-browser/chro                          
+root     19383  0.0  0.0 220472  9308 ?        SNs  Oct31   0:36 /usr/sbin/apache2 -k start
+root     19418  0.0  0.0      0     0 ?        S    15:14   0:03 [kworker/2:0]
+root     19447  0.0  0.0      0     0 ?        S    Nov03   0:00 [jbd2/sdb1-8]
+root     19448  0.0  0.0      0     0 ?        S<   Nov03   0:00 [ext4-rsv-conver]
+sathya   19469  0.0  0.1 588928 23648 ?        Sl   Nov03   6:39 /usr/bin/emacs24 /home/sathya/.cache/.fr-N2ZnqS/devkit/cpp/evaluate_scene_flow.cpp
+anmol    19492  0.0  0.0 397244 14352 ?        Sl   Nov06   0:01 /usr/lib/gvfs/gvfsd-http --spawner :1.6 /org/gtk/gvfs/exec_spaw/4
+root     19514  0.0  0.0  95804  2112 pts/32   T    Nov08   0:00 sudo apt-get install firefox
+www-data 19811  0.0  0.0 220528  5544 ?        SN   Nov08   0:02 /usr/sbin/apache2 -k start
+www-data 19812  0.0  0.0 220496  5364 ?        SN   Nov08   0:00 /usr/sbin/apache2 -k start
+www-data 19819  0.0  0.0 220496  5364 ?        SN   Nov08   0:00 /usr/sbin/apache2 -k start
+www-data 19821  0.0  0.0 220496  5364 ?        SN   Nov08   0:00 /usr/sbin/apache2 -k start
+www-data 19822  0.0  0.0 220496  5364 ?        SN   Nov08   0:00 /usr/sbin/apache2 -k start
+lightdm  19914  0.0  0.0 265720  1748 ?        Ssl  Oct25   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+lightdm  19926  0.0  0.0 405552  2652 ?        Ssl  Oct25   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+anmol    20001  0.0  0.0  32496  6060 pts/32   Ss+  Oct31   0:01 bash
+root     20112  0.0  0.0      0     0 ?        S    15:20   0:02 [kworker/7:2]
+root     20873  0.0  0.4 363416 75340 tty9     Ss+  Nov03   1:23 /usr/bin/X -core :2 -seat seat0 -auth /var/run/lightdm/root/:2 -nolisten tcp vt9 -novtswitch
+root     21034  0.0  0.0      0     0 ?        S    20:07   0:01 [kworker/6:3]
+root     21071  0.0  0.0 193020 13628 ?        Sl   Nov03   0:01 lightdm --session-child 14 27
+hkim     21082  0.0  0.0 299264  2488 ?        Sl   Nov03   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+hkim     21085  0.0  0.0  42372  2048 ?        Ss   Nov03   0:00 init --user
+hkim     21186  0.0  0.0  40188  2436 ?        Ss   Nov03   0:04 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-NkCrTKKktN
+hkim     21198  0.0  0.0  24476  1016 ?        Ss   Nov03   0:00 upstart-event-bridge
+hkim     21203  0.0  0.0  80500  1508 ?        Ss   Nov03   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+hkim     21230  0.0  0.0  24484   536 ?        S    Nov03   0:02 upstart-dbus-bridge --daemon --session --user --bus-name session
+hkim     21233  0.0  0.0  32960   640 ?        S    Nov03   0:00 upstart-file-bridge --daemon --user
+hkim     21236  0.0  0.0  24584   600 ?        S    Nov03   0:02 upstart-dbus-bridge --daemon --system --user --bus-name system
+hkim     21238  0.0  0.0 638920  8880 ?        Sl   Nov03   0:02 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+hkim     21255  0.0  0.0 198820  2300 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfsd
+hkim     21260  0.0  0.0 345660  1840 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1010/gvfs -f -o big_writes
+hkim     21261  0.0  0.0 438136  3072 ?        Ssl  Nov03   0:03 /usr/bin/ibus-daemon --daemonize --xim
+hkim     21302  0.0  0.0 283056  1892 ?        Sl   Nov03   0:00 /usr/lib/ibus/ibus-dconf
+hkim     21305  0.0  0.0 178304  2144 ?        Sl   Nov03   0:00 /usr/lib/dconf/dconf-service
+hkim     21308  0.0  0.0 565120  8108 ?        Sl   Nov03   0:01 /usr/lib/ibus/ibus-ui-gtk3
+hkim     21312  0.0  0.0 391244  4796 ?        Sl   Nov03   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+hkim     21335  0.0  0.0 453848  3192 ?        S<l  Nov03   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+hkim     21338  0.0  0.0 207328  1888 ?        Sl   Nov03   0:00 /usr/lib/ibus/ibus-engine-simple
+hkim     21350  0.0  0.0  60464  3128 ?        S    Nov03   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+hkim     21366  0.0  0.0 816016 13852 ?        Ssl  Nov03   0:19 /usr/lib/unity-settings-daemon/unity-settings-daemon
+hkim     21369  0.0  0.0 337628  2048 ?        Ssl  Nov03   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+hkim     21370  0.0  0.0 588292  6824 ?        Ssl  Nov03   0:00 gnome-session --session=gnome-fallback --disable-acceleration-check
+hkim     21375  0.0  0.0  39372  1860 ?        S    Nov03   0:00 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+hkim     21381  0.0  0.0 125008  2252 ?        Sl   Nov03   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+root     21387  0.0  0.0  78732  4932 ?        Ss   07:46   0:00 /usr/sbin/cupsd -f
+lp       21399  0.0  0.0  63156  1692 ?        S    07:46   0:00 /usr/lib/cups/notifier/dbus dbus:// 
+hkim     21409  0.0  0.0  96216  2020 ?        S    Nov03   0:00 /usr/lib/pulseaudio/pulse/gconf-helper
+hkim     21426  0.0  0.0 710912  9760 ?        Sl   Nov03   0:07 metacity
+hkim     21430  0.0  0.2 791036 33984 ?        Sl   Nov03   0:30 gnome-panel
+hkim     21434  0.0  0.0 265728  1908 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+hkim     21435  0.0  0.0 734536  9860 ?        Sl   Nov03   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+hkim     21437  0.0  0.0 760572 10356 ?        Sl   Nov03   0:00 nm-applet
+hkim     21438  0.0  0.0 481196  6376 ?        Sl   Nov03   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+hkim     21443  0.0  0.0 286748  3080 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+hkim     21444  0.0  0.0  24936  1268 ?        S    Nov03   0:00 /sbin/initctl emit indicator-services-start
+hkim     21445  0.0  0.2 1676812 32904 ?       Sl   Nov03   3:39 nautilus -n
+hkim     21448  0.0  0.0 337304  2200 ?        Ssl  Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+hkim     21451  0.0  0.0 280668  2552 ?        Ssl  Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+hkim     21459  0.0  0.0 764180  7240 ?        Ssl  Nov03   0:08 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+hkim     21461  0.0  0.0 553804  4756 ?        Ssl  Nov03   0:15 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+hkim     21463  0.0  0.0 896076  3512 ?        Ssl  Nov03   0:20 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+hkim     21491  0.0  0.0 1097516 7136 ?        Sl   Nov03   0:00 /usr/lib/evolution/evolution-source-registry
+hkim     21495  0.0  0.0 344652  6904 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/notify-osd
+hkim     21510  0.0  0.0 451924 14140 ?        Sl   Nov03   0:37 /usr/bin/gnome-screensaver --no-daemon
+hkim     21539  0.0  0.0 374872  4128 ?        Sl   Nov03   0:04 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+hkim     21552  0.0  0.0 206980  2348 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+hkim     21558  0.0  0.0 288140  3928 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+hkim     21589  0.0  0.0 214616  2332 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+hkim     21593  0.0  0.4 624524 75836 ?        Sl   Nov03   1:06 /usr/lib/x86_64-linux-gnu/indicator-applet-complete
+hkim     21598  0.0  0.0 363296  2884 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-sync/indicator-sync-service
+hkim     21600  0.0  0.0 673000  8956 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard-service --use-gtk
+hkim     21615  0.0  0.0 370424  2876 ?        Sl   Nov03   0:11 /usr/lib/gvfs/gvfsd-trash --spawner :1.8 /org/gtk/gvfs/exec_spaw/0
+hkim     21618  0.0  0.1 669452 23568 ?        Sl   Nov03   0:11 /usr/lib/gnome-online-accounts/goa-daemon
+hkim     21627  0.0  0.2 879484 38528 ?        Sl   Nov03   0:00 /usr/lib/evolution/evolution-calendar-factory
+hkim     21633  0.0  0.0 322768  4020 ?        Sl   Nov03   0:00 /usr/lib/telepathy/mission-control-5
+hkim     21651  0.0  0.0 272556  2068 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.8 /org/gtk/gvfs/exec_spaw/1
+hkim     21707  0.0  0.0 459392  6552 ?        Sl   Nov03   0:00 telepathy-indicator
+hkim     21714  0.0  0.0 443424  4172 ?        Sl   Nov03   0:11 zeitgeist-datahub
+hkim     21719  0.0  0.0 349028  3864 ?        Sl   Nov03   0:00 /usr/bin/zeitgeist-daemon
+hkim     21725  0.0  0.0 252580  4872 ?        Sl   Nov03   0:10 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+hkim     21739  0.0  0.0  13588   488 ?        S    Nov03   0:00 /bin/cat
+hkim     21758  0.0  0.1 802140 24064 ?        Sl   Nov03   0:01 /usr/lib/evolution/3.10/evolution-alarm-notify
+anmol    21829  0.0  0.0  11856   748 pts/35   T    15:32   0:00 shared/legr_dti exp_1/ /home/anmol/Desktop/RA_799_Vikas/data/DTI_FULL_489/MGLM_demo//condorout/run1/totalresults/exp_unified shared/
+hkim     21837  0.0  0.0 737020 11884 ?        Sl   Nov03   0:03 update-notifier
+hkim     21911  0.0  0.0 126660  1828 ?        Sl   Nov03   0:00 /usr/lib/gvfs/gvfsd-metadata
+sathya   22017  0.0  0.3 756240 53864 ?        SNl  Nov04   0:12 /usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map
+hkim     22102  0.0  0.3 756244 55852 ?        SNl  Nov04   0:04 /usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map
+hkim     22200  0.0  0.0 379960  2564 ?        Sl   Nov03   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+anmol    22348  0.0  0.0  10616   328 ?        Ss   Oct28   0:00 ssh-agent -s
+anmol    22551  0.0  0.0  11856   752 pts/35   T    15:38   0:00 shared/legr_dti exp_1/ /home/anmol/Desktop/RA_799_Vikas/data/DTI_FULL_489/MGLM_demo//condorout/run1/totalresults/exp_unified shared/
+anmol    22607  0.0  1.7 862192 290676 ?       Sl   Oct30   2:08 /usr/lib/x86_64-linux-gnu/notify-osd
+anmol    22755  0.0  0.4 1083200 67476 ?       Sl   Nov09   0:41 /usr/lib/chromium-browser/chro                          
+sathya   23044  0.0  0.3 602396 64248 ?        Ssl  Nov04   0:51 /usr/lib/unity/unity-panel-service --lockscreen-mode
+anmol    23191  0.0  0.5 1150564 96060 ?       Sl   15:42   0:12 /usr/lib/chromium-browser/chro                          
+anmol    23265  1.0  1.9 1470304 325216 ?      Sl   15:42   4:37 /usr/lib/chromium-browser/chro                          
+sathya   24036  0.0  0.0   4440   540 ?        Ss   Nov05   0:00 /bin/sh -e /proc/self/fd/9
+hkim     24038  0.0  0.0   4440   540 ?        Ss   Nov05   0:00 /bin/sh -e /proc/self/fd/9
+hkim     24058  0.0  0.0 488500  9312 ?        Sl   Nov05   0:00 /usr/lib/update-notifier/system-crash-notification
+sathya   24059  0.0  0.0 488500  9420 ?        Sl   Nov05   0:00 /usr/lib/update-notifier/system-crash-notification
+anmol    24720  0.0  1.8 1782488 303968 ?      Sl   Nov05   5:06 /usr/lib/chromium-browser/chro                          
+anmol    25636  0.0  0.0  18784   428 ?        S    Oct29   0:00 /bin/bash /usr/bin/subl
+anmol    25639  0.0  0.6 1851988 112580 ?      Sl   Oct29   4:23 /opt/sublime_text_2/sublime_text --class=sublime-text-2
+root     26046  0.0  0.0 356900 10624 ?        Ssl  20:42   0:05 /opt/teamviewer/tv_bin/teamviewerd -f
+anmol    28489  1.4  3.0 2211684 506856 ?      Sl   Nov08  89:18 /usr/lib/chromium-browser/chro                          
+root     29842  0.0  0.0      0     0 ?        S<   Nov09   0:09 [kworker/u17:0]
+anmol    30474  0.0  0.0  14840   716 pts/23   Ss+  Nov08   0:00 /usr/local/MATLAB/R2014b/bin/glnxa64/matlab_helper /dev/pts/23 yes
+anmol    30652  2.7 10.6 3725540 1738128 ?     SLl  Oct31 482:29 chromium-browser --enable-pinch                          
+anmol    30664  0.0  0.0 643700  7768 ?        S    Oct31   0:00 chromium-browser --type=zygote                          
+anmol    30668  0.0  0.0 676484  5620 ?        S    Oct31   0:18 chromium-browser --type=zygote                          
+anmol    30692  1.5  2.3 1453912 379460 ?      Sl   Oct31 267:53 chromium-browser --type=gpu-process --channel=30652.0.488064051 --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,27,30,45,55,57 --disable-accelerated-video-decode --gpu-vendor-id=0x10de --gpu-device-id=0x0ca0 --gpu-driver-vendor=NVIDIA --gpu-driver-version=340.93 --v8-natives-passed-by-fd --v8-snapshot-passed-by-
+anmol    30748  0.0  0.0 681640  6356 ?        S    Oct31   0:00 chromium-browser --type=gpu-broker                                                                                                                                                                                                                                                                                                 
+anmol    30849  0.6  3.0 1663516 504356 ?      Sl   Oct31 114:13 /usr/lib/chromium-browser/chro                          
+anmol    30852  0.0  0.6 1159416 103348 ?      Sl   Oct31  12:23 /usr/lib/chromium-browser/chro                          
+anmol    30864  0.0  0.2 1082888 45888 ?       Sl   Oct31   0:44 /usr/lib/chromium-browser/chro                          
+anmol    30883  0.0  0.1 1065204 25736 ?       Sl   Oct31   0:05 /usr/lib/chromium-browser/chro                          
+anmol    30909  0.0  0.1 1059056 30484 ?       Sl   Oct31   0:06 /usr/lib/chromium-browser/chro                          
+jxu      31601  0.0  0.0  61432 12600 ?        S    16:55   0:00 python /home/jxu/workspace/junming-twitter/survey_jia/collector.py 7oEyFysotrNsFZju90AhVfeEl sBywUZORTziQf52zmlH3mIQH5OK5mFNS1loBPBKi1XFkYPHP6y 2508521515-q6mzelNHLSCsrrAo1ZfodxhxbTMwkyjQcaDEOr4 SuSKhpxzAMv121uCceZqzoC6kxbHKVuOFdHNxNYeM6PBJ follow /home/jxu/workspace/junming-twitter/survey_jia/user_info/bullying_survey /home/jxu/workspace/junming-twitter/survey_jia/stream/
+root     32242  0.0  0.0      0     0 ?        S    21:32   0:00 [kworker/4:1]
+root     32291  0.0  0.0 4199772 2576 ?        Sl   Oct27   0:01 /usr/sbin/console-kit-daemon --no-daemon
