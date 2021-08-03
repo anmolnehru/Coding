@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+#git
+.idea/*
+cmake-build-debug/
+
 # Folder config file
 Desktop.ini
 
